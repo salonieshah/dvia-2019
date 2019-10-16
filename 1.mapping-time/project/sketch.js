@@ -15,7 +15,7 @@ function draw() {
 
   // set the background to 'white' – you can also specify colors use integers, hex-color strings and more.
   // note that setting the background also clears the canvas from our previous round of drawing
-  background('white')
+  background('252, 186, 3')
 
   // set up typography & drawing-color
   textFont("Anonymous Pro") // ← check index.html to see how it was loaded from google-fonts

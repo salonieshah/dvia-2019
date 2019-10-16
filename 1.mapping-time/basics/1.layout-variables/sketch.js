@@ -3,14 +3,14 @@
 
 function setup() {
   createCanvas(720, 400);
-  background(0);
+  background(252, 186, 3);
   stroke(150);
   strokeWeight(4);
 
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
   // define three variables to determine how & where our lines will be drawn
-  var x = 90;
+  var x = 10;
   var y = 120;
   var w = 180;
   print(`left side: x:${x} y:${y} w:${w}`)

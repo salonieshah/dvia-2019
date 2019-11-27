@@ -1,0 +1,32 @@
+[
+  {
+    "Topic": "Candy",
+    "Nuclear": 1,
+    "Multiple": 37870036.1
+  },
+  {
+    "Topic": "Healthcare",
+    "Nuclear": 1,
+    "Multiple": 207.4762658
+  },
+  {
+    "Topic": "Food",
+    "Nuclear": 1,
+    "Multiple": 184.3465363
+  },
+  {
+    "Topic": "Trees Planted",
+    "Nuclear": 1,
+    "Multiple": 4125.500153
+  },
+  {
+    "Topic": "Shelter Homes",
+    "Nuclear": 1,
+    "Multiple": 57.27433149
+  },
+  {
+    "Topic": "Education",
+    "Nuclear": 1,
+    "Multiple": 6947.019868
+  }
+]

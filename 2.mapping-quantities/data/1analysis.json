@@ -1,0 +1,178 @@
+[
+  {
+    "year": "1945-1949",
+    "United States": 6,
+    "Russia": 1,
+    "United Kingdom": 0,
+    "France": 0,
+    "China": 0,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1950-1954",
+    "United States": 43,
+    "Russia": 17,
+    "United Kingdom": 3,
+    "France": 0,
+    "China": 0,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1955-1959",
+    "United States": 145,
+    "Russia": 67,
+    "United Kingdom": 18,
+    "France": 0,
+    "China": 0,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1960-1964",
+    "United States": 248,
+    "Russia": 185,
+    "United Kingdom": 18,
+    "France": 12,
+    "China": 1,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1965-1969",
+    "United States": 230,
+    "Russia": 99,
+    "United Kingdom": 1,
+    "France": 19,
+    "China": 9,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1970-1974",
+    "United States": 136,
+    "Russia": 110,
+    "United Kingdom": 1,
+    "France": 32,
+    "China": 6,
+    "India": 1,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1975-1979",
+    "United States": 96,
+    "Russia": 133,
+    "United Kingdom": 4,
+    "France": 37,
+    "China": 10,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1980-1984",
+    "United States": 84,
+    "Russia": 125,
+    "United Kingdom": 8,
+    "France": 51,
+    "China": 6,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1985-1989",
+    "United States": 71,
+    "Russia": 62,
+    "United Kingdom": 4,
+    "France": 41,
+    "China": 2,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1990-1994",
+    "United States": 21,
+    "Russia": 1,
+    "United Kingdom": 2,
+    "France": 12,
+    "China": 8,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "1995-1999",
+    "United States": 8,
+    "Russia": 13,
+    "United Kingdom": 0,
+    "France": 6,
+    "China": 6,
+    "India": 2,
+    "Pakistan": 2,
+    "North Korea": 0
+  },
+  {
+    "year": "2000-2004",
+    "United States": 12,
+    "Russia": 5,
+    "United Kingdom": 1,
+    "France": 0,
+    "China": 4,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 0
+  },
+  {
+    "year": "2005-2009",
+    "United States": 1,
+    "Russia": 0,
+    "United Kingdom": 1,
+    "France": 0,
+    "China": 0,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 2
+  },
+  {
+    "year": "2010-2014",
+    "United States": 0,
+    "Russia": 0,
+    "United Kingdom": 0,
+    "France": 0,
+    "China": 0,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 1
+  },
+  {
+    "year": "2015-2020",
+    "United States": 0,
+    "Russia": 0,
+    "United Kingdom": 0,
+    "France": 0,
+    "China": 0,
+    "India": 0,
+    "Pakistan": 0,
+    "North Korea": 3
+  },
+  {
+    "year": "Grand Total",
+    "United States": 1101,
+    "Russia": 818,
+    "United Kingdom": 61,
+    "France": 210,
+    "China": 52,
+    "India": 3,
+    "Pakistan": 2,
+    "North Korea": 6
+  }
+]

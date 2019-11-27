@@ -1,0 +1,27 @@
+[
+  {
+    "Topic": "Healthcare",
+    "Nuclear": 9,
+    "Multiple": 207
+  },
+  {
+    "Topic": "Food",
+    "Nuclear": 9,
+    "Multiple": 184
+  },
+  {
+    "Topic": "Trees Planted",
+    "Nuclear": 9,
+    "Multiple": 4125
+  },
+  {
+    "Topic": "Shelter Homes",
+    "Nuclear": 9,
+    "Multiple": 57
+  },
+  {
+    "Topic": "Education",
+    "Nuclear": 9,
+    "Multiple": 6947
+  }
+]

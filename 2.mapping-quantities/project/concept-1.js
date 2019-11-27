@@ -1,7 +1,7 @@
 var data
 
 function preload(){
-  data = loadJSON('data/totals.json')
+  data = loadJSON('data/all-activity.json')
 }
 
 function setup(){

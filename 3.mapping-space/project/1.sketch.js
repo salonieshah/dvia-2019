@@ -6,7 +6,7 @@ var mymap;
 
 function preload() {
     // load the CSV data into our `table` variable and clip out the header row
-    table = loadTable("../data/database_high.csv", "csv", "header");
+    table = loadTable("../data/Database_Global.csv", "csv", "header");
 }
 
 function setup() {
@@ -79,16 +79,27 @@ function addCircles(){
         }
 
         // create a new dot
-        var circle = L.circle([row.getNum('latitude'), row.getNum('longitude')], {
+        var circle = L.circle([row.getNum('earthquake_latitude'), row.getNum('earthquake_longitude')], {
             // color: '#751620',      // the dot stroke color
             stroke: false,
             fillColor: '#751620', // the dot fill color
-            fillOpacity: 0.75,  // use some transparency so we can see overlaps
-            radius: row.getNum('maximum_magnitude') * 40000
+            fillOpacity: 0.5,  // use some transparency so we can see overlaps
+            radius: 50000,
+            //radius: row.getNum('maximum_magnitude') * 40000
+        })
+        
+        var circle1 = L.circle([row.getNum('project_latitude'), row.getNum('project_longitude')], {
+            // color: '#751620',      // the dot stroke color
+            stroke: false,
+            fillColor: '#FFB800', // the dot fill color
+            fillOpacity: 0.5,  // use some transparency so we can see overlaps
+            radius: 50000,
+            // radius: row.getNum('maximum_magnitude') * 40000
         })
 
         // place the new dot on the map
         circle.addTo(mymap);
+        circle1.addTo(mymap);
     }
 }
 

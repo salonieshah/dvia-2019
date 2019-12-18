@@ -1,0 +1,5609 @@
+[
+  {
+    "country": "China",
+    "main_cause": "Fracking",
+    "project_name": "N201-H18 well pad, Changning shale gas block, Xingwen County, Sichuan Province",
+    "latitude": 28.195818,
+    "longitude": 104.695619,
+    "magnitude": 4.8,
+    "year": 2019
+  },
+  {
+    "country": "UK",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Horse Hill 1 (Newdigate earthquake sequence)",
+    "latitude": 51.177935,
+    "longitude": -0.20953,
+    "magnitude": 3.1,
+    "year": 2019
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "Boulby mine, North Yorkshire",
+    "latitude": 54.553457,
+    "longitude": -0.8243,
+    "magnitude": 1.2,
+    "year": 2019
+  },
+  {
+    "country": "UK",
+    "main_cause": "Fracking",
+    "project_name": "Preston New Road",
+    "latitude": 53.78784,
+    "longitude": -2.951047,
+    "magnitude": 2.9,
+    "year": 2019
+  },
+  {
+    "country": "Finland",
+    "main_cause": "Geothermal",
+    "project_name": "OTN3 well, St1 Geothermal Project, Otaniemi, Espoo",
+    "latitude": 60.188396,
+    "longitude": 24.827842,
+    "magnitude": 1.9,
+    "year": 2018
+  },
+  {
+    "country": "Poland",
+    "main_cause": "Mining",
+    "project_name": "Zofiowka coal mine, Jastrzebie-Zdroj",
+    "latitude": 49.966225,
+    "longitude": 18.565302,
+    "magnitude": 3.4,
+    "year": 2018
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "16 km SW Fort St. John",
+    "latitude": 56.100311,
+    "longitude": -120.899253,
+    "magnitude": 4.5,
+    "year": 2018
+  },
+  {
+    "country": "China",
+    "main_cause": "Fracking",
+    "project_name": "N201-H24 well pad, Changning shale gas block, Xingwen County, Sichuan Province",
+    "latitude": 28.211,
+    "longitude": 104.933856,
+    "magnitude": 5.2,
+    "year": 2018
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "McClain County region, Oklahoma",
+    "latitude": 35.014074,
+    "longitude": -97.662386,
+    "magnitude": 2.6,
+    "year": 2017
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Wolf 2H well, Noble County, Ohio",
+    "latitude": 39.904438,
+    "longitude": -81.281086,
+    "magnitude": 3.7,
+    "year": 2017
+  },
+  {
+    "country": "China",
+    "main_cause": "Fracking",
+    "project_name": "H7 well pad, Shangluo site, Zhaotong field",
+    "latitude": 28.130039,
+    "longitude": 104.752801,
+    "magnitude": 4.67,
+    "year": 2017
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Donato well, Monroe County, Ohio",
+    "latitude": 39.644683,
+    "longitude": -81.19245,
+    "magnitude": 3,
+    "year": 2017
+  },
+  {
+    "country": "Botswana",
+    "main_cause": "Coal Bed Methane (CBM)",
+    "project_name": "Selemo and Lesedi pilot pods",
+    "latitude": -22.586373,
+    "longitude": 25.84591,
+    "magnitude": 6.3,
+    "year": 2017
+  },
+  {
+    "country": "North Korea",
+    "main_cause": "Nuclear explosions",
+    "project_name": "6th nuclear test (DPRK-6)",
+    "latitude": 41.3429,
+    "longitude": 129.036,
+    "magnitude": 4.1,
+    "year": 2017
+  },
+  {
+    "country": "Iran",
+    "main_cause": "Groundwater extraction",
+    "project_name": "Iran-Iraq border earthquake",
+    "latitude": 34.91,
+    "longitude": 45.96,
+    "magnitude": 7.3,
+    "year": 2017
+  },
+  {
+    "country": "South Korea",
+    "main_cause": "Geothermal",
+    "project_name": "Pohang (PX-2)",
+    "latitude": 36.106728,
+    "longitude": 129.378262,
+    "magnitude": 5.5,
+    "year": 2017
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.000464,
+    "longitude": -97.873212,
+    "magnitude": 1.5,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Canadian County region, Oklahoma",
+    "latitude": 35.566628,
+    "longitude": -98.068106,
+    "magnitude": 2,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Grady County region, Oklahoma",
+    "latitude": 34.852839,
+    "longitude": -97.777676,
+    "magnitude": 2,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.015364,
+    "longitude": -97.830896,
+    "magnitude": 2.2,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Woodward County region, Oklahoma",
+    "latitude": 36.188489,
+    "longitude": -99.113976,
+    "magnitude": 2.2,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Grady County region, Oklahoma",
+    "latitude": 34.895735,
+    "longitude": -97.691013,
+    "magnitude": 2.3,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Carter County region, Oklahoma",
+    "latitude": 34.252063,
+    "longitude": -97.465075,
+    "magnitude": 2.3,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Canadian County region, Oklahoma",
+    "latitude": 35.710625,
+    "longitude": -98.028702,
+    "magnitude": 2.5,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Canadian County region, Oklahoma",
+    "latitude": 35.436339,
+    "longitude": -97.917906,
+    "magnitude": 2.6,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Conotton well, Harrison County, Ohio",
+    "latitude": 40.421579,
+    "longitude": -81.165447,
+    "magnitude": 2.7,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kingfisher County region, Oklahoma",
+    "latitude": 36.071358,
+    "longitude": -97.883173,
+    "magnitude": 2.8,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kingfisher County region, Oklahoma",
+    "latitude": 36.071358,
+    "longitude": -97.883173,
+    "magnitude": 2.8,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kingfisher County region, Oklahoma",
+    "latitude": 36.071358,
+    "longitude": -97.883173,
+    "magnitude": 2.8,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Major County region, Oklahoma",
+    "latitude": 36.217113,
+    "longitude": -98.927435,
+    "magnitude": 2.8,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Blaine County region, Oklahoma",
+    "latitude": 35.755979,
+    "longitude": -98.613256,
+    "magnitude": 3,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.007685,
+    "longitude": -97.873263,
+    "magnitude": 3,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Woodward County region, Oklahoma",
+    "latitude": 36.217584,
+    "longitude": -99.247328,
+    "magnitude": 3,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kay County region, Oklahoma",
+    "latitude": 36.603779,
+    "longitude": -97.306468,
+    "magnitude": 3.1,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Major County region, Oklahoma",
+    "latitude": 36.188017,
+    "longitude": -98.850922,
+    "magnitude": 3.1,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Blaine County region, Oklahoma",
+    "latitude": 35.754782,
+    "longitude": -98.527544,
+    "magnitude": 3.2,
+    "year": 2016
+  },
+  {
+    "country": "China",
+    "main_cause": "Fracking",
+    "project_name": "Weiyuan site",
+    "latitude": 29.521175,
+    "longitude": 104.829375,
+    "magnitude": 3.4,
+    "year": 2016
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS17)",
+    "latitude": 54.392986,
+    "longitude": -117.260448,
+    "magnitude": 4.1,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Fairview, Oklahoma",
+    "latitude": 36.48,
+    "longitude": -98.73,
+    "magnitude": 5.1,
+    "year": 2016
+  },
+  {
+    "country": "South Korea",
+    "main_cause": "Mining",
+    "project_name": "Taeyoung EMC, Geummae-ri, Wonnam-myeon, Uljin-gun, Gyeongsangbuk-do",
+    "latitude": 36.927772,
+    "longitude": 129.367826,
+    "magnitude": 4.4,
+    "year": 2016
+  },
+  {
+    "country": "North Korea",
+    "main_cause": "Nuclear explosions",
+    "project_name": "4th nuclear test (DPRK-4)",
+    "latitude": 41.302293,
+    "longitude": 129.076599,
+    "magnitude": 2.16,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Edinburg (North Beaver Township), Pennsylvania",
+    "latitude": 40.991088,
+    "longitude": -80.432348,
+    "magnitude": 1.9,
+    "year": 2016
+  },
+  {
+    "country": "France",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Lacq (Arette)",
+    "latitude": 43.5191,
+    "longitude": -0.5869,
+    "magnitude": 3.9,
+    "year": 2016
+  },
+  {
+    "country": "Poland",
+    "main_cause": "Fracking",
+    "project_name": "Wysin Site (Well 2H)",
+    "latitude": 54.094215,
+    "longitude": 18.306012,
+    "magnitude": 0.5,
+    "year": 2016
+  },
+  {
+    "country": "Poland",
+    "main_cause": "Fracking",
+    "project_name": "Wysin Site (Well 3H)",
+    "latitude": 54.093609,
+    "longitude": 18.305638,
+    "magnitude": 1,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Pawnee, Oklahoma",
+    "latitude": 36.431,
+    "longitude": -96.931,
+    "magnitude": 5.8,
+    "year": 2016
+  },
+  {
+    "country": "North Korea",
+    "main_cause": "Nuclear explosions",
+    "project_name": "5th nuclear test (DPRK-5)",
+    "latitude": 41.302072,
+    "longitude": 129.082208,
+    "magnitude": 1.74,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Wheeler well, Guernsey County, Ohio",
+    "latitude": 40.053925,
+    "longitude": -81.264846,
+    "magnitude": 2.3,
+    "year": 2016
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Vozar well, Harrison County, Ohio",
+    "latitude": 40.197555,
+    "longitude": -81.208553,
+    "magnitude": 0.7,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.000396,
+    "longitude": -97.88275,
+    "magnitude": 1.9,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Canadian County region, Oklahoma",
+    "latitude": 35.755602,
+    "longitude": -97.965974,
+    "magnitude": 2.1,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Major County region, Oklahoma",
+    "latitude": 36.216992,
+    "longitude": -98.824998,
+    "magnitude": 2.2,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Canadian County region, Oklahoma",
+    "latitude": 35.813409,
+    "longitude": -98.025493,
+    "magnitude": 2.3,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Grady County region, Oklahoma",
+    "latitude": 34.811209,
+    "longitude": -97.753118,
+    "magnitude": 2.3,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kay County region, Oklahoma",
+    "latitude": 36.639161,
+    "longitude": -97.406891,
+    "magnitude": 2.4,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Stephens County region, Oklahoma",
+    "latitude": 34.520735,
+    "longitude": -97.75741,
+    "magnitude": 2.4,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Pittsburgh County region, Oklahoma",
+    "latitude": 34.811744,
+    "longitude": -96.10656,
+    "magnitude": 2.4,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Hamilton well, Harrison County, Ohio",
+    "latitude": 40.224783,
+    "longitude": -81.178579,
+    "magnitude": 2.6,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Blaine County region, Oklahoma",
+    "latitude": 35.782607,
+    "longitude": -98.544454,
+    "magnitude": 2.7,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Carter County region, Oklahoma",
+    "latitude": 34.30292,
+    "longitude": -97.582883,
+    "magnitude": 2.7,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Stephens County region, Oklahoma",
+    "latitude": 34.477498,
+    "longitude": -97.753006,
+    "magnitude": 2.7,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS15)",
+    "latitude": 54.3403,
+    "longitude": -117.5639,
+    "magnitude": 2.8,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS11)",
+    "latitude": 54.384492,
+    "longitude": -117.399624,
+    "magnitude": 2.9,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS13)",
+    "latitude": 54.3096,
+    "longitude": -117.620251,
+    "magnitude": 2.9,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Major County region, Oklahoma",
+    "latitude": 36.1868,
+    "longitude": -98.820458,
+    "magnitude": 2.9,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS16)",
+    "latitude": 54.326056,
+    "longitude": -116.706017,
+    "magnitude": 3,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS14)",
+    "latitude": 54.310867,
+    "longitude": -117.606707,
+    "magnitude": 3.1,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS12)",
+    "latitude": 54.461791,
+    "longitude": -117.265879,
+    "magnitude": 3.2,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS7) (Well Pad 3)",
+    "latitude": 54.35363,
+    "longitude": -117.320114,
+    "magnitude": 3.7,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS8) (Well Pad 2)",
+    "latitude": 54.497183,
+    "longitude": -117.382038,
+    "magnitude": 2.9,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS6) Alberta (Waskahigan and McKinley fields) (Well Pad 1)",
+    "latitude": 54.438115,
+    "longitude": -117.340393,
+    "magnitude": 3.9,
+    "year": 2015
+  },
+  {
+    "country": "South Korea",
+    "main_cause": "Mining",
+    "project_name": "Taeyoung EMC, Gangwon-do, Samcheok city, Gangwon province",
+    "latitude": 37.275148,
+    "longitude": 129.095661,
+    "magnitude": 4.2,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (Well Pad 5)",
+    "latitude": 54.434,
+    "longitude": -117.526,
+    "magnitude": 2.9,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS9) (Well Pad 6)",
+    "latitude": 54.354341,
+    "longitude": -117.221553,
+    "magnitude": 3.2,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (Well Pad 4)",
+    "latitude": 54.474,
+    "longitude": -117.226,
+    "magnitude": 2.7,
+    "year": 2015
+  },
+  {
+    "country": "Nepal",
+    "main_cause": "Groundwater extraction",
+    "project_name": "Gorkha earthquake, Indo-Gangetic plains",
+    "latitude": 28.147,
+    "longitude": 84.708,
+    "magnitude": 7.8,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Venus, Texas",
+    "latitude": 32.435985,
+    "longitude": -97.104581,
+    "magnitude": 4,
+    "year": 2015
+  },
+  {
+    "country": "Lithuania",
+    "main_cause": "Geothermal",
+    "project_name": "Curonian Lagoon",
+    "latitude": 55.44,
+    "longitude": 21.49,
+    "magnitude": 2.6,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS10)",
+    "latitude": 54.157247,
+    "longitude": -116.886296,
+    "magnitude": 3.9,
+    "year": 2015
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "116 km WNW of Fort St. John (well 10 in Mahani et al., 2017)",
+    "latitude": 57.013,
+    "longitude": -122.154,
+    "magnitude": 4.6,
+    "year": 2015
+  },
+  {
+    "country": "UK",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Kirby Misperton field",
+    "latitude": 54.200432,
+    "longitude": -0.819422,
+    "magnitude": 0.7,
+    "year": 2015
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Pingyi County, Shandong Province",
+    "latitude": 35.502506,
+    "longitude": 117.635844,
+    "magnitude": 4,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Harper County, Kansas",
+    "latitude": 37.195257,
+    "longitude": -97.944021,
+    "magnitude": 4.1,
+    "year": 2015
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Davidson well, Harrison County, Ohio",
+    "latitude": 40.210247,
+    "longitude": -81.208832,
+    "magnitude": 1.1,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Tarbert well, Harrison County, Ohio",
+    "latitude": 40.2017,
+    "longitude": -81.179078,
+    "magnitude": 1.8,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 33.983138,
+    "longitude": -97.287173,
+    "magnitude": 2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Southern Stephens County region, Oklahoma",
+    "latitude": 34.402964,
+    "longitude": -97.630606,
+    "magnitude": 2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kingfisher County region, Oklahoma",
+    "latitude": 36.202216,
+    "longitude": -97.822049,
+    "magnitude": 2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kingfisher County region, Oklahoma",
+    "latitude": 36.202216,
+    "longitude": -97.822049,
+    "magnitude": 2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 33.966997,
+    "longitude": -97.379505,
+    "magnitude": 2.1,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 33.974382,
+    "longitude": -97.380298,
+    "magnitude": 2.1,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kay County region, Oklahoma",
+    "latitude": 36.657903,
+    "longitude": -97.315924,
+    "magnitude": 2.1,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Carter County region, Oklahoma",
+    "latitude": 34.245961,
+    "longitude": -97.485776,
+    "magnitude": 2.1,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 34.012491,
+    "longitude": -97.281175,
+    "magnitude": 2.2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 33.997265,
+    "longitude": -97.285677,
+    "magnitude": 2.2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 34.099378,
+    "longitude": -97.482806,
+    "magnitude": 2.5,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Southern Stephens County region, Oklahoma",
+    "latitude": 34.407283,
+    "longitude": -97.617156,
+    "magnitude": 2.5,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.031203,
+    "longitude": -97.796732,
+    "magnitude": 2.6,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kay County region, Oklahoma",
+    "latitude": 36.623528,
+    "longitude": -97.260437,
+    "magnitude": 2.8,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Canadian County region, Oklahoma",
+    "latitude": 35.667913,
+    "longitude": -98.164575,
+    "magnitude": 2.8,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Stephens County region, Oklahoma",
+    "latitude": 34.493039,
+    "longitude": -97.700905,
+    "magnitude": 2.8,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 34.094363,
+    "longitude": -97.424022,
+    "magnitude": 2.9,
+    "year": 2014
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Pintail (Montney Trend)",
+    "latitude": 56.330068,
+    "longitude": -121.867153,
+    "magnitude": 3.1,
+    "year": 2014
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS3)",
+    "latitude": 54.389222,
+    "longitude": -117.214005,
+    "magnitude": 3.2,
+    "year": 2014
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS5)",
+    "latitude": 54.537046,
+    "longitude": -117.773923,
+    "magnitude": 3.2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 34.0958,
+    "longitude": -97.43437,
+    "magnitude": 3.2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Guthrie, Oklahoma",
+    "latitude": 35.771411,
+    "longitude": -97.51963,
+    "magnitude": 4,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Texas (Cluster C)",
+    "latitude": 35.88,
+    "longitude": -100.5,
+    "magnitude": 4.2,
+    "year": 2014
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS2)",
+    "latitude": 54.475904,
+    "longitude": -117.32051,
+    "magnitude": 3.18,
+    "year": 2014
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Caribou (Montney Trend)",
+    "latitude": 57.297666,
+    "longitude": -122.672925,
+    "magnitude": 3.2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Poland Township, Ohio",
+    "latitude": 41.013706,
+    "longitude": -80.536243,
+    "magnitude": 3,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kirkwood A wells, Belmont County, Ohio",
+    "latitude": 40.078669,
+    "longitude": -81.224506,
+    "magnitude": 2.6,
+    "year": 2014
+  },
+  {
+    "country": "North Korea",
+    "main_cause": "Nuclear explosions",
+    "project_name": "3rd nuclear test (DPRK-3)",
+    "latitude": 41.294886,
+    "longitude": 129.07936,
+    "magnitude": 2.53,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Greeley, Colorado",
+    "latitude": 40.46,
+    "longitude": -104.65,
+    "magnitude": 3.2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Morenci Mine, Arizona",
+    "latitude": 33.106668,
+    "longitude": -109.361804,
+    "magnitude": 5.2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Eagleton 1-29, Oklahoma",
+    "latitude": 34.095728,
+    "longitude": -97.434442,
+    "magnitude": 3.2,
+    "year": 2014
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "Moab Khotsong near Orkney",
+    "latitude": -26.987341,
+    "longitude": 26.802192,
+    "magnitude": 5.5,
+    "year": 2014
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Jirau",
+    "latitude": -9.266289,
+    "longitude": -64.647841,
+    "magnitude": 3.2,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Milan, Summer County, Kansas",
+    "latitude": 37.259705,
+    "longitude": -97.674084,
+    "magnitude": 4.9,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Trumbull County, Ohio",
+    "latitude": 41.1955,
+    "longitude": -80.775,
+    "magnitude": 2.1,
+    "year": 2014
+  },
+  {
+    "country": "Costa Rica",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Pirr�s Reservoir",
+    "latitude": 9.642956,
+    "longitude": -84.102296,
+    "magnitude": 4.8,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Cushing, Oklahoma",
+    "latitude": 35.901018,
+    "longitude": -96.806531,
+    "magnitude": 4.3,
+    "year": 2014
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Carter County region, Oklahoma",
+    "latitude": 34.360909,
+    "longitude": -97.564754,
+    "magnitude": 1.8,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 34.07548,
+    "longitude": -97.35717,
+    "magnitude": 2,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 34.057503,
+    "longitude": -97.35609,
+    "magnitude": 2,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Carter County region, Oklahoma",
+    "latitude": 34.258222,
+    "longitude": -97.531298,
+    "magnitude": 2,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Pittsburgh County region, Oklahoma",
+    "latitude": 34.754515,
+    "longitude": -96.122188,
+    "magnitude": 2.1,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "McClain County region, Oklahoma",
+    "latitude": 35.014422,
+    "longitude": -97.521602,
+    "magnitude": 2.2,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "McClain County region, Oklahoma",
+    "latitude": 34.937831,
+    "longitude": -97.590237,
+    "magnitude": 2.3,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.073754,
+    "longitude": -97.839183,
+    "magnitude": 2.4,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Southern Stephens County region, Oklahoma",
+    "latitude": 34.402138,
+    "longitude": -97.616287,
+    "magnitude": 2.5,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Gilmer County, West Virginia",
+    "latitude": 38.848801,
+    "longitude": -80.945552,
+    "magnitude": 2.7,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.117277,
+    "longitude": -97.901028,
+    "magnitude": 2.8,
+    "year": 2013
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Fox Creek (SS1, SS4)",
+    "latitude": 54.507571,
+    "longitude": -117.31829,
+    "magnitude": 3.3,
+    "year": 2013
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Cadia",
+    "latitude": -33.458452,
+    "longitude": 148.99566,
+    "magnitude": 3.4,
+    "year": 2013
+  },
+  {
+    "country": "Poland",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Czorsztyn Lake",
+    "latitude": 49.419785,
+    "longitude": 20.324127,
+    "magnitude": 3.5,
+    "year": 2013
+  },
+  {
+    "country": "Poland",
+    "main_cause": "Mining",
+    "project_name": "Rudna mine",
+    "latitude": 51.500834,
+    "longitude": 16.108181,
+    "magnitude": 4.2,
+    "year": 2013
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Olympia Dam",
+    "latitude": -30.442015,
+    "longitude": 136.835009,
+    "magnitude": 3.5,
+    "year": 2013
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Groundwater extraction",
+    "project_name": "Jaen (Giribaile reservoir)",
+    "latitude": 38.091572,
+    "longitude": -3.5119,
+    "magnitude": 3.72,
+    "year": 2013
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Septimus (Montney Trend)",
+    "latitude": 56.079697,
+    "longitude": -120.931332,
+    "magnitude": 4.2,
+    "year": 2013
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Bachatsky, Kuzbass",
+    "latitude": 54.283954,
+    "longitude": 86.160225,
+    "magnitude": 6.1,
+    "year": 2013
+  },
+  {
+    "country": "France",
+    "main_cause": "Geothermal",
+    "project_name": "Rittersshoffen, Alsace",
+    "latitude": 48.896791,
+    "longitude": 7.938518,
+    "magnitude": 1.6,
+    "year": 2013
+  },
+  {
+    "country": "Switzerland",
+    "main_cause": "Geothermal",
+    "project_name": "St. Gallen",
+    "latitude": 47.415719,
+    "longitude": 9.329338,
+    "magnitude": 3.3,
+    "year": 2013
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Beg-Town (Montney Trend)",
+    "latitude": 56.903922,
+    "longitude": -122.030021,
+    "magnitude": 3.4,
+    "year": 2013
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Castor",
+    "latitude": 40.38027,
+    "longitude": 0.700902,
+    "magnitude": 4.3,
+    "year": 2013
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Doe-Dawson (Montney Trend)",
+    "latitude": 55.903271,
+    "longitude": -120.321329,
+    "magnitude": 2.8,
+    "year": 2013
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Altares (Montney Trend)",
+    "latitude": 56.236478,
+    "longitude": -122.062024,
+    "magnitude": 2.2,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Azle/Reno,Texas",
+    "latitude": 32.992842,
+    "longitude": -97.58518,
+    "magnitude": 3.6,
+    "year": 2013
+  },
+  {
+    "country": "Mexico",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Cuchillo, Nuevo Le�n",
+    "latitude": 25.725895,
+    "longitude": -99.3143,
+    "magnitude": 4.5,
+    "year": 2013
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Three Gorges",
+    "latitude": 30.823099,
+    "longitude": 111.003113,
+    "magnitude": 5.1,
+    "year": 2013
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Bergermeer",
+    "latitude": 52.650573,
+    "longitude": 4.716736,
+    "magnitude": 0.7,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Ryser well, Harrison County, Ohio",
+    "latitude": 40.215713,
+    "longitude": -81.200345,
+    "magnitude": 2.2,
+    "year": 2013
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.059089,
+    "longitude": -97.817083,
+    "magnitude": 1.5,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Canadian County region, Oklahoma",
+    "latitude": 35.508624,
+    "longitude": -98.069009,
+    "magnitude": 1.6,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Oxy Geismar Cavern, Napoleon salt dome, Assumption Parish, Louisiana",
+    "latitude": 30.010584,
+    "longitude": -91.143366,
+    "magnitude": 1.6,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.088392,
+    "longitude": -97.786503,
+    "magnitude": 1.7,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "North Grady County region, Oklahoma",
+    "latitude": 35.118035,
+    "longitude": -97.792066,
+    "magnitude": 2,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Garvin County region, Oklahoma",
+    "latitude": 34.56229,
+    "longitude": -97.454388,
+    "magnitude": 2.1,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Coal County region, Oklahoma",
+    "latitude": 34.608945,
+    "longitude": -96.425832,
+    "magnitude": 2.5,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Garvin County region, Oklahoma",
+    "latitude": 34.558665,
+    "longitude": -97.470027,
+    "magnitude": 2.5,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "McClain County region, Oklahoma",
+    "latitude": 35.102834,
+    "longitude": -97.506407,
+    "magnitude": 2.6,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Love County region, Oklahoma",
+    "latitude": 34.057623,
+    "longitude": -97.373799,
+    "magnitude": 2.8,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "McClain County region, Oklahoma",
+    "latitude": 34.993134,
+    "longitude": -97.694477,
+    "magnitude": 2.8,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Canadian County region, Oklahoma",
+    "latitude": 35.550838,
+    "longitude": -98.074833,
+    "magnitude": 2.8,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Marshall County region, Oklahoma",
+    "latitude": 34.129808,
+    "longitude": -96.901521,
+    "magnitude": 2.8,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "McClain County region, Oklahoma",
+    "latitude": 34.981454,
+    "longitude": -97.658196,
+    "magnitude": 2.9,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Kay County region, Oklahoma",
+    "latitude": 36.65777,
+    "longitude": -97.320499,
+    "magnitude": 3,
+    "year": 2012
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Visselh�vede field",
+    "latitude": 52.9865,
+    "longitude": 9.583473,
+    "magnitude": 2.9,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Timpson, East Texas",
+    "latitude": 31.882951,
+    "longitude": -94.430778,
+    "magnitude": 4.8,
+    "year": 2012
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Oil and Gas/Waste fluid injection",
+    "project_name": "Cavone and San Giacomo fields, Mirandola License (Emilia sequence)",
+    "latitude": 44.884486,
+    "longitude": 10.9408,
+    "magnitude": 6.1,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Cleburne, Texas",
+    "latitude": 32.293,
+    "longitude": -97.372,
+    "magnitude": 3.5,
+    "year": 2012
+  },
+  {
+    "country": "USA",
+    "main_cause": "Geothermal",
+    "project_name": "Newberry",
+    "latitude": 43.726024,
+    "longitude": -121.316311,
+    "magnitude": 2.39,
+    "year": 2012
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Groningen",
+    "latitude": 53.34,
+    "longitude": 6.75,
+    "magnitude": 3.4,
+    "year": 2012
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Xiaowan",
+    "latitude": 24.704404,
+    "longitude": 100.09117,
+    "magnitude": 3.9,
+    "year": 2012
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Geothermal",
+    "project_name": "Cooper Basin (Habanero 4)",
+    "latitude": -27.815319,
+    "longitude": 140.754976,
+    "magnitude": 3.9,
+    "year": 2012
+  },
+  {
+    "country": "Vietnam",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Song Tranh 2",
+    "latitude": 15.331268,
+    "longitude": 108.147744,
+    "magnitude": 4.7,
+    "year": 2012
+  },
+  {
+    "country": "New Zealand",
+    "main_cause": "Geothermal",
+    "project_name": "Rotokawa",
+    "latitude": -38.613816,
+    "longitude": 176.184116,
+    "magnitude": 3.3,
+    "year": 2012
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Geothermal",
+    "project_name": "Cooper Basin (Jolokia 1)",
+    "latitude": -27.801046,
+    "longitude": 140.661422,
+    "magnitude": 1.6,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Blaine County region, Oklahoma",
+    "latitude": 35.754757,
+    "longitude": -98.43269,
+    "magnitude": 2.2,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Carter County region, Oklahoma",
+    "latitude": 34.247445,
+    "longitude": -97.40225,
+    "magnitude": 2.2,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Marshall County region, Oklahoma",
+    "latitude": 34.18353,
+    "longitude": -96.721349,
+    "magnitude": 2.2,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Coal County region, Oklahoma",
+    "latitude": 34.679322,
+    "longitude": -96.362331,
+    "magnitude": 2.6,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Grady County region, Oklahoma",
+    "latitude": 34.907479,
+    "longitude": -97.744946,
+    "magnitude": 2.7,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas",
+    "project_name": "Fashing Region (Event B)",
+    "latitude": 28.966,
+    "longitude": -98.343,
+    "magnitude": 1.94,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Eola-Robberson field, Oklahoma",
+    "latitude": 34.651687,
+    "longitude": -98.005575,
+    "magnitude": 2.9,
+    "year": 2011
+  },
+  {
+    "country": "Kazakhstan",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Tengiz field",
+    "latitude": 46.164715,
+    "longitude": 53.391578,
+    "magnitude": 3.6,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Arkansas",
+    "latitude": 35.273596,
+    "longitude": -92.318165,
+    "magnitude": 4.7,
+    "year": 2011
+  },
+  {
+    "country": "UK",
+    "main_cause": "Fracking",
+    "project_name": "Preese Hall",
+    "latitude": 53.82228333,
+    "longitude": -2.950583333,
+    "magnitude": 2.3,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas",
+    "project_name": "Fashing Region (G Cluster)",
+    "latitude": 29.246,
+    "longitude": -97.761,
+    "magnitude": 2.4,
+    "year": 2011
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Verden field",
+    "latitude": 52.923345,
+    "longitude": 9.231185,
+    "magnitude": 2.5,
+    "year": 2011
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Groundwater extraction",
+    "project_name": "Lorca",
+    "latitude": 37.678688,
+    "longitude": -1.692868,
+    "magnitude": 5.1,
+    "year": 2011
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Horn River Basin",
+    "latitude": 59.51,
+    "longitude": -122.52,
+    "magnitude": 3.8,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas",
+    "project_name": "Fashing Region (H Cluster)",
+    "latitude": 29.361,
+    "longitude": -97.42,
+    "magnitude": 2.62,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas",
+    "project_name": "Dimmit County (M Cluster), Texas",
+    "latitude": 28.212,
+    "longitude": -99.681,
+    "magnitude": 2.72,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas",
+    "project_name": "Fashing Region (C Cluster)",
+    "latitude": 28.954,
+    "longitude": -98.196,
+    "magnitude": 2.12,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Lillian (J-A cluster), Barnett Shale, Texas",
+    "latitude": 32.488,
+    "longitude": -97.171,
+    "magnitude": 3,
+    "year": 2011
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Funil",
+    "latitude": -22.528896,
+    "longitude": -44.567925,
+    "magnitude": 3.2,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Raton Basin, Colorado and New Mexico",
+    "latitude": 37.023281,
+    "longitude": -104.781255,
+    "magnitude": 5.3,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Fashing Region (A Cluster), Texas",
+    "latitude": 28.924,
+    "longitude": -98.623,
+    "magnitude": 1.82,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Long Run-1 well, Washington County, Ohio",
+    "latitude": 39.385324,
+    "longitude": -81.339614,
+    "magnitude": 3.1,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Cogdell Field, Texas",
+    "latitude": 32.954945,
+    "longitude": -100.885326,
+    "magnitude": 4.4,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Bienville Parish, Louisiana",
+    "latitude": 32.361,
+    "longitude": -93.268,
+    "magnitude": 1.9,
+    "year": 2011
+  },
+  {
+    "country": "Iceland",
+    "main_cause": "Geothermal",
+    "project_name": "Hellishei?i (H�sm�li reinjection site)",
+    "latitude": 64.037073,
+    "longitude": -21.393795,
+    "magnitude": 4,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Fashing, Texas",
+    "latitude": 28.793293,
+    "longitude": -98.137085,
+    "magnitude": 4.8,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Prague, Oklahoma",
+    "latitude": 35.561824,
+    "longitude": -96.749797,
+    "magnitude": 5.7,
+    "year": 2011
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Geothermal",
+    "project_name": "Well Paralana 2",
+    "latitude": -30.193843,
+    "longitude": 139.69747,
+    "magnitude": 2.5,
+    "year": 2011
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Fracking",
+    "project_name": "Cardston, Alberta (Ninastoko field)",
+    "latitude": 49.319382,
+    "longitude": -113.307653,
+    "magnitude": 3,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Youngstown, Ohio",
+    "latitude": 41.11855,
+    "longitude": -80.69215,
+    "magnitude": 3.88,
+    "year": 2011
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Pittsburgh County region, Oklahoma",
+    "latitude": 34.710408,
+    "longitude": -95.964667,
+    "magnitude": 2.2,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Blaine County region, Oklahoma",
+    "latitude": 35.769433,
+    "longitude": -98.453723,
+    "magnitude": 2.4,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "South Grady County region, Oklahoma",
+    "latitude": 34.863688,
+    "longitude": -97.72181,
+    "magnitude": 2.6,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Carter County region, Oklahoma",
+    "latitude": 34.283061,
+    "longitude": -97.44617,
+    "magnitude": 2.6,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Coal County region, Oklahoma",
+    "latitude": 34.649929,
+    "longitude": -96.36477,
+    "magnitude": 2.8,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Coal County region, Oklahoma",
+    "latitude": 34.680873,
+    "longitude": -96.380005,
+    "magnitude": 2.8,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Pittsburgh County region, Oklahoma",
+    "latitude": 34.81044,
+    "longitude": -96.015173,
+    "magnitude": 3,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Fracking",
+    "project_name": "Coal County region, Oklahoma",
+    "latitude": 34.650184,
+    "longitude": -96.355901,
+    "magnitude": 3.2,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Braxton County, West Virginia",
+    "latitude": 38.7,
+    "longitude": -80.85,
+    "magnitude": 3.4,
+    "year": 2010
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Graham (Montney Trend)",
+    "latitude": 56.416035,
+    "longitude": -122.206761,
+    "magnitude": 4,
+    "year": 2010
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Dongjing/Dongqing",
+    "latitude": 25.52661,
+    "longitude": 105.765367,
+    "magnitude": 4.4,
+    "year": 2010
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Mine 15-15bis",
+    "latitude": 60.158281,
+    "longitude": 59.956042,
+    "magnitude": 3.5,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas",
+    "project_name": "Dimmit County (K Cluster), Texas",
+    "latitude": 28.49,
+    "longitude": -100.003,
+    "magnitude": 2.98,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas/Waste fluid injection",
+    "project_name": "Fashing Region (F Cluster), Texas",
+    "latitude": 28.988,
+    "longitude": -97.97,
+    "magnitude": 3,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas/Waste fluid injection",
+    "project_name": "Bakken, North Dakota",
+    "latitude": 47.984,
+    "longitude": -103.978,
+    "magnitude": 2.5,
+    "year": 2010
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Kachkanar earthquake",
+    "latitude": 58.910996,
+    "longitude": 59.184059,
+    "magnitude": 4.4,
+    "year": 2010
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Kalgoorlie Super Pit",
+    "latitude": -30.776852,
+    "longitude": 121.505366,
+    "magnitude": 5,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Alice (Stratton field), Texas",
+    "latitude": 27.68707,
+    "longitude": -97.902146,
+    "magnitude": 3.9,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas",
+    "project_name": "Dimmit County (L Cluster), Texas",
+    "latitude": 28.385,
+    "longitude": -100.055,
+    "magnitude": 1.83,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas/Waste fluid injection",
+    "project_name": "Cedar Creek Anticline, Montana",
+    "latitude": 46.585,
+    "longitude": -104.445,
+    "magnitude": 2.1,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Cedar Creek Anticline, North Dakota",
+    "latitude": 46.034,
+    "longitude": "?103.960",
+    "magnitude": 1.4,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Dimmit County (Event J), Texas",
+    "latitude": 28.606,
+    "longitude": -99.985,
+    "magnitude": 1.52,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Center, Texas",
+    "latitude": 31.744,
+    "longitude": "?94.210",
+    "magnitude": 1.5,
+    "year": 2010
+  },
+  {
+    "country": "USA",
+    "main_cause": "Oil and Gas",
+    "project_name": "Fashing Region (D Cluster)",
+    "latitude": 28.894,
+    "longitude": -98.187,
+    "magnitude": 3,
+    "year": 2010
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Geothermal",
+    "project_name": "Insheim",
+    "latitude": 49.153866,
+    "longitude": 8.153706,
+    "magnitude": 2.4,
+    "year": 2010
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Kidd Creek, Ontario",
+    "latitude": 48.690259,
+    "longitude": -81.373536,
+    "magnitude": 3.8,
+    "year": 2009
+  },
+  {
+    "country": "China",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Huangjiachang gas field",
+    "latitude": 29.382689,
+    "longitude": 105.050618,
+    "magnitude": 4.4,
+    "year": 2009
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Dillsburg, Pennsylvania",
+    "latitude": 40.103052,
+    "longitude": -77.012329,
+    "magnitude": 2.9,
+    "year": 2009
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Dallas-Fort Worth, Texas",
+    "latitude": 32.855,
+    "longitude": -97.051,
+    "magnitude": 3.3,
+    "year": 2009
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Geothermal",
+    "project_name": "Landau",
+    "latitude": 49.186672,
+    "longitude": 8.122912,
+    "magnitude": 2.7,
+    "year": 2009
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Anadarko Basin (Cluster A)",
+    "latitude": 36.05,
+    "longitude": -99.7,
+    "magnitude": 3.1,
+    "year": 2009
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Changning, Sichuan",
+    "latitude": 28.583333,
+    "longitude": 104.916667,
+    "magnitude": 4.8,
+    "year": 2008
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Saar/Lorraine",
+    "latitude": 49.38,
+    "longitude": 6.84,
+    "magnitude": 3.7,
+    "year": 2008
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Saar (Primsmulde), Saarland",
+    "latitude": 49.365846,
+    "longitude": 6.842963,
+    "magnitude": 4,
+    "year": 2008
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Langwedel field",
+    "latitude": 52.978571,
+    "longitude": 9.171021,
+    "magnitude": 2.8,
+    "year": 2008
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Zipingpu (Wenchuan earthquake)",
+    "latitude": 31.036602,
+    "longitude": 103.573959,
+    "magnitude": 7.9,
+    "year": 2008
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Macassa, Ontario",
+    "latitude": 48.141885,
+    "longitude": -80.072,
+    "magnitude": 3.1,
+    "year": 2008
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Copper Cliff North, Ontario",
+    "latitude": 46.477302,
+    "longitude": -81.055917,
+    "magnitude": 3.8,
+    "year": 2008
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Fraser, Ontario",
+    "latitude": 46.663895,
+    "longitude": -81.33994,
+    "magnitude": 2.4,
+    "year": 2008
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Garson, Ontario",
+    "latitude": 46.567953,
+    "longitude": -80.856625,
+    "magnitude": 3.3,
+    "year": 2008
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Geothermal",
+    "project_name": "Unterhaching",
+    "latitude": 48.057059,
+    "longitude": 11.59727,
+    "magnitude": 2.4,
+    "year": 2008
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Jones, Oklahoma",
+    "latitude": 35.56569,
+    "longitude": -97.286403,
+    "magnitude": 4,
+    "year": 2008
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Geothermal",
+    "project_name": "Cooper Basin (Habanero 3)",
+    "latitude": -27.819541,
+    "longitude": 140.751286,
+    "magnitude": 1.7,
+    "year": 2008
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Oklahoma Panhandle (Cluster E)",
+    "latitude": 36.85,
+    "longitude": -101.6,
+    "magnitude": 1.7,
+    "year": 2008
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Oklahoma-Texas Border (Cluster B)",
+    "latitude": 35.4,
+    "longitude": -100.24,
+    "magnitude": 2.8,
+    "year": 2008
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "Savuka, Carletonville",
+    "latitude": -26.423742,
+    "longitude": 27.408734,
+    "magnitude": 4.4,
+    "year": 2007
+  },
+  {
+    "country": "Poland",
+    "main_cause": "Mining",
+    "project_name": "Bobrek mine",
+    "latitude": 50.346009,
+    "longitude": 18.878044,
+    "magnitude": 3.8,
+    "year": 2007
+  },
+  {
+    "country": "UK",
+    "main_cause": "Construction",
+    "project_name": "Folkestone",
+    "latitude": 51.104297,
+    "longitude": 1.271382,
+    "magnitude": 4.2,
+    "year": 2007
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Craig, Ontario",
+    "latitude": 46.637213,
+    "longitude": -81.369341,
+    "magnitude": 2.2,
+    "year": 2007
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Longtan",
+    "latitude": 25.027447,
+    "longitude": 107.04284,
+    "magnitude": 4.2,
+    "year": 2007
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Crandall Canyon, Utah",
+    "latitude": 39.45992,
+    "longitude": -111.167632,
+    "magnitude": 3.9,
+    "year": 2007
+  },
+  {
+    "country": "Algeria",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Beni Haroun dam/reservoir and the Oued Athmania reservoir",
+    "latitude": 36.374526,
+    "longitude": 6.308338,
+    "magnitude": 3.9,
+    "year": 2007
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Val d'Agri oil field (CM2 well)",
+    "latitude": 40.325153,
+    "longitude": 15.989455,
+    "magnitude": 2,
+    "year": 2006
+  },
+  {
+    "country": "Iceland",
+    "main_cause": "Geothermal",
+    "project_name": "Reykjanes",
+    "latitude": 63.825755,
+    "longitude": -22.681859,
+    "magnitude": 3,
+    "year": 2006
+  },
+  {
+    "country": "Switzerland",
+    "main_cause": "Mining",
+    "project_name": "MFS Faido (Gotthard basetunnel)",
+    "latitude": 46.539587,
+    "longitude": 8.801785,
+    "magnitude": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Iran",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Karun III",
+    "latitude": 31.802737,
+    "longitude": 50.095373,
+    "magnitude": 4.3,
+    "year": 2006
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Irap�",
+    "latitude": -16.737171,
+    "longitude": -42.575279,
+    "magnitude": 3,
+    "year": 2006
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Creighton, Ontario",
+    "latitude": 46.473321,
+    "longitude": -81.186642,
+    "magnitude": 4.1,
+    "year": 2006
+  },
+  {
+    "country": "Switzerland",
+    "main_cause": "Geothermal",
+    "project_name": "Basel",
+    "latitude": 47.585488,
+    "longitude": 7.595567,
+    "magnitude": 3.4,
+    "year": 2006
+  },
+  {
+    "country": "USA",
+    "main_cause": "Geothermal",
+    "project_name": "Salton Sea, California",
+    "latitude": 33.163424,
+    "longitude": -115.6167,
+    "magnitude": 5.1,
+    "year": 2005
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Toulnustouc",
+    "latitude": 50.01479,
+    "longitude": -68.023217,
+    "magnitude": 1.6,
+    "year": 2005
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "Klerksdorp (DRDGold's North West Operations)",
+    "latitude": -26.852943,
+    "longitude": 26.647948,
+    "magnitude": 5.3,
+    "year": 2005
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Toulnustouc",
+    "latitude": 49.970443,
+    "longitude": -68.159326,
+    "magnitude": 0.8,
+    "year": 2005
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Vorkutinskoe earthquake",
+    "latitude": 67.709904,
+    "longitude": 64.489935,
+    "magnitude": 3.6,
+    "year": 2005
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Syke (Bassum, Niedersachsen) field",
+    "latitude": 52.912154,
+    "longitude": 8.818457,
+    "magnitude": 3.8,
+    "year": 2005
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Geothermal",
+    "project_name": "Cooper Basin (Habanero 1 restimulation)",
+    "latitude": -27.815319,
+    "longitude": 140.754976,
+    "magnitude": 2.9,
+    "year": 2005
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Tejon, Central Valley (WWF), Kern County, California",
+    "latitude": 34.990114,
+    "longitude": -118.926051,
+    "magnitude": 4.6,
+    "year": 2005
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Barra Grande",
+    "latitude": -27.777052,
+    "longitude": -51.190314,
+    "magnitude": 2.5,
+    "year": 2005
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Campos Novos",
+    "latitude": -27.604176,
+    "longitude": -51.326545,
+    "magnitude": 1.8,
+    "year": 2005
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Dagger Draw, New Mexico",
+    "latitude": 32.527263,
+    "longitude": -104.308088,
+    "magnitude": 4.1,
+    "year": 2005
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Groundwater extraction",
+    "project_name": "Bebedouro, Paran� Basin",
+    "latitude": -21.040888,
+    "longitude": -48.517504,
+    "magnitude": 2.9,
+    "year": 2005
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Saar (Primsmulde), Saarland (Roadway construction)",
+    "latitude": 49.365846,
+    "longitude": 6.842963,
+    "magnitude": 3.3,
+    "year": 2005
+  },
+  {
+    "country": "France",
+    "main_cause": "Mining",
+    "project_name": "Gardanne",
+    "latitude": 43.451488,
+    "longitude": 5.471328,
+    "magnitude": 2.5,
+    "year": 2005
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Mine 14-14bis",
+    "latitude": 60.158281,
+    "longitude": 59.956042,
+    "magnitude": 3.2,
+    "year": 2004
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Benxi Caitun mine, Shenyang, Liaoning",
+    "latitude": 41.310849,
+    "longitude": 123.733431,
+    "magnitude": 2.8,
+    "year": 2004
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Wulong mine, Fuxin, Liaoning",
+    "latitude": 41.964849,
+    "longitude": 121.636624,
+    "magnitude": 3.8,
+    "year": 2004
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Itoiz",
+    "latitude": 42.802222,
+    "longitude": -1.360736,
+    "magnitude": 4.6,
+    "year": 2004
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Rotenberg/Neuenkirchen and S�hlingen field (Rotenberg earthquake)",
+    "latitude": 53.0088,
+    "longitude": 9.6253,
+    "magnitude": 4.4,
+    "year": 2004
+  },
+  {
+    "country": "Taiwan",
+    "main_cause": "Construction",
+    "project_name": "Taipei 101",
+    "latitude": 25.033985,
+    "longitude": 121.56442,
+    "magnitude": 3.8,
+    "year": 2004
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "TauTona, Carletonville",
+    "latitude": -26.416686,
+    "longitude": 27.422091,
+    "magnitude": 2.2,
+    "year": 2004
+  },
+  {
+    "country": "USA",
+    "main_cause": "Geothermal",
+    "project_name": "Coso",
+    "latitude": 36.037358,
+    "longitude": -117.797806,
+    "magnitude": 2.8,
+    "year": 2004
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Florida, New York",
+    "latitude": 41.360181,
+    "longitude": -74.361405,
+    "magnitude": 2.3,
+    "year": 2003
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Niwan mine, Xiangtan, Hunan",
+    "latitude": 27.691707,
+    "longitude": 112.438849,
+    "magnitude": 2.8,
+    "year": 2003
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "San he jian mine, Xuzhou, Jiangsu",
+    "latitude": 34.901,
+    "longitude": 116.809,
+    "magnitude": 3.4,
+    "year": 2003
+  },
+  {
+    "country": "Kazakhstan",
+    "main_cause": "Mining",
+    "project_name": "Stepnyak",
+    "latitude": 52.835711,
+    "longitude": 70.786633,
+    "magnitude": 3.5,
+    "year": 2003
+  },
+  {
+    "country": "France",
+    "main_cause": "Geothermal",
+    "project_name": "Soultz (GPK-3)",
+    "latitude": 48.93092,
+    "longitude": 7.866691,
+    "magnitude": 2.9,
+    "year": 2003
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Appelscha",
+    "latitude": 52.965403,
+    "longitude": 6.417568,
+    "magnitude": 2.3,
+    "year": 2003
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Itapebi",
+    "latitude": -15.968583,
+    "longitude": -39.590946,
+    "magnitude": 1.5,
+    "year": 2003
+  },
+  {
+    "country": "El Salvador",
+    "main_cause": "Geothermal",
+    "project_name": "Berl�n (Well TR8A)",
+    "latitude": 13.524806,
+    "longitude": -88.508646,
+    "magnitude": 4.4,
+    "year": 2003
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Geothermal",
+    "project_name": "Cooper Basin (Habanero 1)",
+    "latitude": -27.815319,
+    "longitude": 140.754976,
+    "magnitude": 3.7,
+    "year": 2003
+  },
+  {
+    "country": "Belarus",
+    "main_cause": "Mining",
+    "project_name": "Soligorsk (Starobin deposit)",
+    "latitude": 52.861366,
+    "longitude": 27.559462,
+    "magnitude": 4.4,
+    "year": 2003
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Geothermal",
+    "project_name": "Bad Urach",
+    "latitude": 48.506892,
+    "longitude": 9.373565,
+    "magnitude": 1.8,
+    "year": 2002
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Poseidon Norte gas field",
+    "latitude": 37.010417,
+    "longitude": -6.899884,
+    "magnitude": 4.3,
+    "year": 2002
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Laohutai mine, Fushun, Liaoning",
+    "latitude": 41.843397,
+    "longitude": 123.941408,
+    "magnitude": 3.7,
+    "year": 2002
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Mining",
+    "project_name": "Montfort",
+    "latitude": 51.129426,
+    "longitude": 5.945422,
+    "magnitude": 2,
+    "year": 2002
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Karnasurt Mine",
+    "latitude": 67.88047344,
+    "longitude": 34.66726911,
+    "magnitude": 3.6,
+    "year": 2002
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Schoonebeek",
+    "latitude": 52.672792,
+    "longitude": 6.882075,
+    "magnitude": 1.4,
+    "year": 2002
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Avoca, New York",
+    "latitude": 42.414359,
+    "longitude": -77.458276,
+    "magnitude": 2.9,
+    "year": 2001
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Ashtabula, Ohio",
+    "latitude": 41.907742,
+    "longitude": -80.733883,
+    "magnitude": 4.3,
+    "year": 2001
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Nanshan mine, Hegang, Heilongjiang",
+    "latitude": 47.271073,
+    "longitude": 130.284285,
+    "magnitude": 3.7,
+    "year": 2001
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Mining",
+    "project_name": "San Nicol�s (Mieres) and Montsacro (Morc�n � Riosa) mines",
+    "latitude": 43.252837,
+    "longitude": -5.817935,
+    "magnitude": 2.6,
+    "year": 2001
+  },
+  {
+    "country": "Oman",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Shuiba reservoir",
+    "latitude": 22.140792,
+    "longitude": 56.021501,
+    "magnitude": 2.05,
+    "year": 2001
+  },
+  {
+    "country": "Norway",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Ekofisk",
+    "latitude": 56.54919444,
+    "longitude": 3.21,
+    "magnitude": 3,
+    "year": 2001
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Mining",
+    "project_name": "Voerendaal-Kunrade",
+    "latitude": 50.875937,
+    "longitude": 5.933239,
+    "magnitude": 3.9,
+    "year": 2001
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Machadinho",
+    "latitude": -27.525285,
+    "longitude": -51.785059,
+    "magnitude": 1.8,
+    "year": 2001
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Bergermeer (Alkmaar)",
+    "latitude": 52.650573,
+    "longitude": 4.716736,
+    "magnitude": 3.5,
+    "year": 2001
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Bergen",
+    "latitude": 52.650573,
+    "longitude": 4.716736,
+    "magnitude": 2.7,
+    "year": 2001
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Montedoglio",
+    "latitude": 43.589065,
+    "longitude": 12.051172,
+    "magnitude": 4.3,
+    "year": 2001
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Research",
+    "project_name": "KTB",
+    "latitude": 49.815713,
+    "longitude": 12.119527,
+    "magnitude": 0.5,
+    "year": 2000
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Springfield Pike Quarry, Pennsylvania",
+    "latitude": 40.013298,
+    "longitude": -79.539274,
+    "magnitude": 0.2,
+    "year": 2000
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Willow Creek, Utah",
+    "latitude": 39.749163,
+    "longitude": -110.8365,
+    "magnitude": 4.2,
+    "year": 2000
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Geothermal",
+    "project_name": "Monte Amiata",
+    "latitude": 42.858112,
+    "longitude": 11.704996,
+    "magnitude": 4.5,
+    "year": 2000
+  },
+  {
+    "country": "Paraguay",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Yacyreta",
+    "latitude": -27.482194,
+    "longitude": -56.729428,
+    "magnitude": 3.9,
+    "year": 2000
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Paradox Valley, Colorado",
+    "latitude": 38.296547,
+    "longitude": -108.895006,
+    "magnitude": 4.3,
+    "year": 2000
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "SM 3, Quebec",
+    "latitude": 50.790636,
+    "longitude": -66.791279,
+    "magnitude": 2.2,
+    "year": 2000
+  },
+  {
+    "country": "Iceland",
+    "main_cause": "Geothermal",
+    "project_name": "Laugaland (Holtum) and Kald�rholt",
+    "latitude": 65.583584,
+    "longitude": -18.064491,
+    "magnitude": 6.6,
+    "year": 2000
+  },
+  {
+    "country": "France",
+    "main_cause": "Geothermal",
+    "project_name": "Soultz (GPK-2)",
+    "latitude": 48.93092,
+    "longitude": 7.866691,
+    "magnitude": 2.4,
+    "year": 2000
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Tous New",
+    "latitude": 39.13286,
+    "longitude": -0.650549,
+    "magnitude": 4,
+    "year": 2000
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "VriesCentraal",
+    "latitude": 53.078127,
+    "longitude": 6.559676,
+    "magnitude": 1,
+    "year": 2000
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Saar (Dilsburg Ost), Saarland",
+    "latitude": 49.329281,
+    "longitude": 6.936476,
+    "magnitude": 3.5,
+    "year": 2000
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Appin, Tower and West Cliff Collieries",
+    "latitude": -34.220927,
+    "longitude": 150.81736,
+    "magnitude": 4.4,
+    "year": 1999
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Serra da Mesa",
+    "latitude": -13.834047,
+    "longitude": -48.304573,
+    "magnitude": 2.2,
+    "year": 1999
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Umbozero Mine",
+    "latitude": 67.667102,
+    "longitude": 34.13314,
+    "magnitude": 5.1,
+    "year": 1999
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Tashtagol Mine",
+    "latitude": 52.764533,
+    "longitude": 87.909153,
+    "magnitude": 3.6,
+    "year": 1999
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "It�",
+    "latitude": -27.277544,
+    "longitude": -52.383454,
+    "magnitude": 2.5,
+    "year": 1999
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Ureterp",
+    "latitude": 53.100118,
+    "longitude": 6.187289,
+    "magnitude": 1,
+    "year": 1999
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Moonee Colliery",
+    "latitude": -33.164268,
+    "longitude": 151.624273,
+    "magnitude": 0.6,
+    "year": 1998
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Tucuru�",
+    "latitude": -3.832188,
+    "longitude": -49.645648,
+    "magnitude": 3.6,
+    "year": 1998
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Xujiadong 711 mine, Chenzhou, Hunan",
+    "latitude": 25.868886,
+    "longitude": 113.108962,
+    "magnitude": 3.4,
+    "year": 1998
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Miranda",
+    "latitude": -18.914284,
+    "longitude": -48.039334,
+    "magnitude": 2.4,
+    "year": 1998
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Mining",
+    "project_name": "Lo Tac�n (Torre Pacheco)",
+    "latitude": 37.617009,
+    "longitude": -0.88828,
+    "magnitude": 2.4,
+    "year": 1998
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Nova Ponte",
+    "latitude": -19.129389,
+    "longitude": -47.697322,
+    "magnitude": 4,
+    "year": 1998
+  },
+  {
+    "country": "Japan",
+    "main_cause": "Research",
+    "project_name": "Nojima",
+    "latitude": 34.535301,
+    "longitude": 134.936999,
+    "magnitude": 0.6,
+    "year": 1997
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Fangshan mine, Beijing, Beijing",
+    "latitude": 39.785,
+    "longitude": 115.915,
+    "magnitude": 3,
+    "year": 1997
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Roswinkel",
+    "latitude": 52.839019,
+    "longitude": 7.039465,
+    "magnitude": 3.4,
+    "year": 1997
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Cordel (Brazeau Cluster)",
+    "latitude": 52.735863,
+    "longitude": -116.185761,
+    "magnitude": 4,
+    "year": 1997
+  },
+  {
+    "country": "China",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Rongchang gas field",
+    "latitude": 29.416664,
+    "longitude": 105.583333,
+    "magnitude": 5.2,
+    "year": 1997
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "Hartebeesfontein",
+    "latitude": -26.761113,
+    "longitude": 26.423146,
+    "magnitude": 5,
+    "year": 1997
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Brewton (Big Escambia Creek, Little Rock, and Sizemore Creek fields), Alabama",
+    "latitude": 31.071981,
+    "longitude": -87.362886,
+    "magnitude": 4.9,
+    "year": 1997
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Dahuatang mine, Shaoyang, Hunan",
+    "latitude": 25.779,
+    "longitude": 112.828,
+    "magnitude": 2.7,
+    "year": 1997
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Yueliangtian mine, Panjiang, Guizhou",
+    "latitude": 25.372614,
+    "longitude": 104.617994,
+    "magnitude": 3.1,
+    "year": 1997
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Shanjiaocun mine, Panjiang, Guizhou",
+    "latitude": 25.944,
+    "longitude": 104.822,
+    "magnitude": 3.1,
+    "year": 1997
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Coevorden",
+    "latitude": 52.67094,
+    "longitude": 6.711839,
+    "magnitude": 1.2,
+    "year": 1997
+  },
+  {
+    "country": "Kenya",
+    "main_cause": "Geothermal",
+    "project_name": "Olkaria",
+    "latitude": -0.879814,
+    "longitude": 36.28758,
+    "magnitude": 2.5,
+    "year": 1996
+  },
+  {
+    "country": "Lesotho",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Katse",
+    "latitude": -29.336925,
+    "longitude": 28.506183,
+    "magnitude": 3.1,
+    "year": 1996
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Bratsk",
+    "latitude": 56.28679,
+    "longitude": 101.78374,
+    "magnitude": 4.2,
+    "year": 1996
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Thomson",
+    "latitude": -37.840754,
+    "longitude": 146.401122,
+    "magnitude": 5,
+    "year": 1996
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Qixingjiezhen mine, Lianyuan, Hunan",
+    "latitude": 27.896961,
+    "longitude": 111.864985,
+    "magnitude": 3.1,
+    "year": 1996
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "Western Deep Levels East",
+    "latitude": -26.412205,
+    "longitude": 27.412374,
+    "magnitude": 4,
+    "year": 1996
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Skyline #3, Utah",
+    "latitude": 39.625832,
+    "longitude": -111.240843,
+    "magnitude": 3,
+    "year": 1996
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Roden",
+    "latitude": 53.136558,
+    "longitude": 6.449793,
+    "magnitude": 2.1,
+    "year": 1996
+  },
+  {
+    "country": "France",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Lacq (Arette)",
+    "latitude": 43.408771,
+    "longitude": -0.6354,
+    "magnitude": 1.9,
+    "year": 1996
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Dalen",
+    "latitude": 52.70657,
+    "longitude": 6.71373,
+    "magnitude": 2.2,
+    "year": 1996
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "VriesNoord",
+    "latitude": 53.097469,
+    "longitude": 6.520655,
+    "magnitude": 1.9,
+    "year": 1996
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "SKRU-2, Ural Mountains",
+    "latitude": 59.324714,
+    "longitude": 56.934451,
+    "magnitude": 4.4,
+    "year": 1995
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Solvay mine, Wyoming",
+    "latitude": 41.5011,
+    "longitude": -109.758184,
+    "magnitude": 5.2,
+    "year": 1995
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Lynch mine, Kentucky",
+    "latitude": 36.966133,
+    "longitude": -82.917906,
+    "magnitude": 4,
+    "year": 1995
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Lompoc diatomite mine, California",
+    "latitude": 34.600754,
+    "longitude": -120.453985,
+    "magnitude": 2.3,
+    "year": 1995
+  },
+  {
+    "country": "Greece",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Polyphyto",
+    "latitude": 40.301705,
+    "longitude": 22.10218,
+    "magnitude": 6.5,
+    "year": 1995
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Neftegorsk earthquake",
+    "latitude": 52.995886,
+    "longitude": 142.944659,
+    "magnitude": 7.5,
+    "year": 1995
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Rosvumchorr mine",
+    "latitude": 67.663744,
+    "longitude": 33.735417,
+    "magnitude": 4.5,
+    "year": 1995
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Research",
+    "project_name": "KTB",
+    "latitude": 49.815713,
+    "longitude": 12.119527,
+    "magnitude": 1.4,
+    "year": 1994
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Shuikou",
+    "latitude": 26.3032,
+    "longitude": 118.812127,
+    "magnitude": 3.2,
+    "year": 1994
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Yantan",
+    "latitude": 24.041383,
+    "longitude": 107.512607,
+    "magnitude": 3.5,
+    "year": 1994
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Genesseo, New York",
+    "latitude": 42.747588,
+    "longitude": -77.8371,
+    "magnitude": 3.6,
+    "year": 1994
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Dhamni",
+    "latitude": 19.923786,
+    "longitude": 73.058857,
+    "magnitude": 3.8,
+    "year": 1994
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Solikamsk, Upper Kama",
+    "latitude": 59.641487,
+    "longitude": 56.914364,
+    "magnitude": 4.7,
+    "year": 1994
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Cacoosing Valley (Sinking Springs), Pennsylvania",
+    "latitude": 40.343987,
+    "longitude": -76.010523,
+    "magnitude": 4.4,
+    "year": 1994
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Retsof, New York",
+    "latitude": 42.824586,
+    "longitude": -77.885229,
+    "magnitude": 3.6,
+    "year": 1994
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Mentougou mine, Beijing, Beijing",
+    "latitude": 39.933,
+    "longitude": 116.062,
+    "magnitude": 4.2,
+    "year": 1994
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Eagle/Eagle West",
+    "latitude": 56.344523,
+    "longitude": -120.685708,
+    "magnitude": 4.3,
+    "year": 1994
+  },
+  {
+    "country": "Bulgaria",
+    "main_cause": "Mining",
+    "project_name": "Provadia",
+    "latitude": 43.06,
+    "longitude": 27.45,
+    "magnitude": 3.1,
+    "year": 1994
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Xing�",
+    "latitude": -9.619942,
+    "longitude": -37.793154,
+    "magnitude": 1.7,
+    "year": 1994
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Blinovo-Kamensky Mine",
+    "latitude": 56.365133,
+    "longitude": 61.961308,
+    "magnitude": 4.1,
+    "year": 1994
+  },
+  {
+    "country": "Kazakhstan",
+    "main_cause": "Mining",
+    "project_name": "Zhezkazgan Deposit (Zlatoyust-Belovskiy Quarry)",
+    "latitude": 47.835959,
+    "longitude": 67.38815,
+    "magnitude": 4.5,
+    "year": 1994
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Lynch No. 37, Kentucky",
+    "latitude": 36.945051,
+    "longitude": -83.003341,
+    "magnitude": 3.8,
+    "year": 1994
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Ellalong",
+    "latitude": -32.924183,
+    "longitude": 151.295031,
+    "magnitude": 5.4,
+    "year": 1994
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Annerveen",
+    "latitude": 53.085018,
+    "longitude": 6.749021,
+    "magnitude": 2.3,
+    "year": 1994
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "A�u",
+    "latitude": -5.669236,
+    "longitude": -36.886347,
+    "magnitude": 3,
+    "year": 1994
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Niumasi mine, Shaoyang, Hunan",
+    "latitude": 27.272216,
+    "longitude": 111.679283,
+    "magnitude": 3.2,
+    "year": 1994
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "President Brand Mine, Welkom",
+    "latitude": -28.032,
+    "longitude": 26.738,
+    "magnitude": 5.6,
+    "year": 1994
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Xindong mine, Shaoyang, Hunan",
+    "latitude": 27.32601,
+    "longitude": 110.834223,
+    "magnitude": 3,
+    "year": 1994
+  },
+  {
+    "country": "Mexico",
+    "main_cause": "Geothermal",
+    "project_name": "Los Humeros",
+    "latitude": 19.646003,
+    "longitude": -97.437637,
+    "magnitude": 4.6,
+    "year": 1994
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Emmen-Nieuw Amsterdam",
+    "latitude": 52.707273,
+    "longitude": 6.871043,
+    "magnitude": 1.7,
+    "year": 1994
+  },
+  {
+    "country": "Cyprus",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Kouris",
+    "latitude": 34.727518,
+    "longitude": 32.918002,
+    "magnitude": 3,
+    "year": 1994
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Dahua",
+    "latitude": 23.72892,
+    "longitude": 107.979039,
+    "magnitude": 4.5,
+    "year": 1993
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Warna (Warana)",
+    "latitude": 17.136995,
+    "longitude": 73.862146,
+    "magnitude": 5,
+    "year": 1993
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Soldier Creek, Utah",
+    "latitude": 39.531779,
+    "longitude": -110.687049,
+    "magnitude": 3.6,
+    "year": 1993
+  },
+  {
+    "country": "Kuwait",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Minagish/Umm Gudair oil fields (for largest eq)",
+    "latitude": 28.88,
+    "longitude": 47.64,
+    "magnitude": 4.7,
+    "year": 1993
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Killari",
+    "latitude": 18.029,
+    "longitude": 76.430184,
+    "magnitude": 6.1,
+    "year": 1993
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Tongjiezi",
+    "latitude": 29.33475,
+    "longitude": 103.610108,
+    "magnitude": 2.9,
+    "year": 1992
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "Carletonville",
+    "latitude": -26.374861,
+    "longitude": 27.406791,
+    "magnitude": 4.7,
+    "year": 1992
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Cottonwood, Utah",
+    "latitude": 39.313281,
+    "longitude": -111.159865,
+    "magnitude": 3.5,
+    "year": 1992
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "Bargoed Mid Glamorgan (South Wales)",
+    "latitude": 51.679,
+    "longitude": -3.26,
+    "magnitude": 2.2,
+    "year": 1992
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Mining",
+    "project_name": "Gran Sasso",
+    "latitude": 42.457056,
+    "longitude": 13.580297,
+    "magnitude": 3.9,
+    "year": 1992
+  },
+  {
+    "country": "El Salvador",
+    "main_cause": "Geothermal",
+    "project_name": "Ahuachapan",
+    "latitude": 13.92066,
+    "longitude": -89.817729,
+    "magnitude": 3,
+    "year": 1991
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Star Point #2, Utah",
+    "latitude": 39.499831,
+    "longitude": -111.076832,
+    "magnitude": 3.1,
+    "year": 1991
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Emmen",
+    "latitude": 52.777205,
+    "longitude": 6.864283,
+    "magnitude": 2,
+    "year": 1991
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Xifeng Nan shan mine, Lindong, Guizhou",
+    "latitude": 27.151,
+    "longitude": 106.732,
+    "magnitude": 3.1,
+    "year": 1991
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Mei tan ba mine, Xifenglun, Hunan",
+    "latitude": 28.239,
+    "longitude": 112.366,
+    "magnitude": 2.8,
+    "year": 1991
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Ibbenb�ren",
+    "latitude": 52.290666,
+    "longitude": 7.742193,
+    "magnitude": 4.6,
+    "year": 1991
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Liu zhi mine, Yingpan, Liuzhi, Guizhou",
+    "latitude": 26.232,
+    "longitude": 105.45,
+    "magnitude": 3.6,
+    "year": 1991
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Falls City, Texas",
+    "latitude": 28.99092,
+    "longitude": -98.032186,
+    "magnitude": 3.6,
+    "year": 1991
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Romashkinskoye (Romashkino field), Volga-Ural",
+    "latitude": 54.853801,
+    "longitude": 52.448906,
+    "magnitude": 4,
+    "year": 1991
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Shi xia jiang mine, Shaoyang, Hunan",
+    "latitude": 26.994,
+    "longitude": 110.691,
+    "magnitude": 1.6,
+    "year": 1991
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Balbina",
+    "latitude": -1.915421,
+    "longitude": -59.47345,
+    "magnitude": 3.4,
+    "year": 1990
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Kurgazakskaya Mine",
+    "latitude": 54.448405,
+    "longitude": 61.264224,
+    "magnitude": 4.3,
+    "year": 1990
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Kaiyang mine, Jinzhong, Kaiyang, Guizhou",
+    "latitude": 27.110634,
+    "longitude": 106.852038,
+    "magnitude": 2.2,
+    "year": 1990
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Marcotte oil field (Palco), Kansas",
+    "latitude": 39.252381,
+    "longitude": -99.56301,
+    "magnitude": 4,
+    "year": 1989
+  },
+  {
+    "country": "Vietnam",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Hoa Binh",
+    "latitude": 20.806778,
+    "longitude": 105.325654,
+    "magnitude": 4.9,
+    "year": 1989
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "Free State Goldfield",
+    "latitude": -27.962,
+    "longitude": 26.76,
+    "magnitude": 4.7,
+    "year": 1989
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "Bolton (Lancashire)",
+    "latitude": 53.59,
+    "longitude": -2.37,
+    "magnitude": 1.7,
+    "year": 1989
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Volkershausen (Ernst Thaelmann/Merkers mine)",
+    "latitude": 50.802752,
+    "longitude": 10.052248,
+    "magnitude": 5.6,
+    "year": 1989
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Mining",
+    "project_name": "Kirovsky Mine, Khibiny Massif (Kola Peninsula)",
+    "latitude": 67.633873,
+    "longitude": 33.876709,
+    "magnitude": 4.1,
+    "year": 1989
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "Buxton (Derbyshire)",
+    "latitude": 53.24,
+    "longitude": -1.79,
+    "magnitude": 2.1,
+    "year": 1989
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Middelie",
+    "latitude": 52.576108,
+    "longitude": 4.972028,
+    "magnitude": 2.7,
+    "year": 1989
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Newcastle",
+    "latitude": -32.964194,
+    "longitude": 151.606966,
+    "magnitude": 5.6,
+    "year": 1989
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Lubuge",
+    "latitude": 24.866265,
+    "longitude": 104.579944,
+    "magnitude": 3.4,
+    "year": 1988
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Ridracoli",
+    "latitude": 43.872879,
+    "longitude": 11.83675,
+    "magnitude": 3.5,
+    "year": 1988
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Lost Hills, Kern County, California",
+    "latitude": 35.603858,
+    "longitude": -119.70556,
+    "magnitude": 4.2,
+    "year": 1988
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Buchanan No. 1, Virginia",
+    "latitude": 37.197945,
+    "longitude": -82.008444,
+    "magnitude": 4,
+    "year": 1988
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "Sunderland (Durham and Northumberland)",
+    "latitude": 54.85,
+    "longitude": -1.27,
+    "magnitude": 2,
+    "year": 1988
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Yan guan mine, Zigui, Yichang, Hubei",
+    "latitude": 31.095,
+    "longitude": 110.76,
+    "magnitude": 2.5,
+    "year": 1988
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Strathcona, Ontario",
+    "latitude": 46.633388,
+    "longitude": -81.384827,
+    "magnitude": 2.7,
+    "year": 1988
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "Rotherham (Yorkshire)",
+    "latitude": 53.42,
+    "longitude": -1.33,
+    "magnitude": 2.2,
+    "year": 1988
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Richland County, Illinois",
+    "latitude": 38.714345,
+    "longitude": -88.093288,
+    "magnitude": 4.9,
+    "year": 1987
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Montebello (Whittier Narrows), California",
+    "latitude": 34.053397,
+    "longitude": -118.085166,
+    "magnitude": 5.9,
+    "year": 1987
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "VP No. 3, Virginia",
+    "latitude": 37.232373,
+    "longitude": -82.09956,
+    "magnitude": 3,
+    "year": 1987
+  },
+  {
+    "country": "China",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Renqiu",
+    "latitude": 38.776653,
+    "longitude": 116.054228,
+    "magnitude": 4.5,
+    "year": 1987
+  },
+  {
+    "country": "UK",
+    "main_cause": "Geothermal",
+    "project_name": "Rosemanowes",
+    "latitude": 50.168087,
+    "longitude": -5.17246,
+    "magnitude": 2,
+    "year": 1987
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Trail Mountain, Utah",
+    "latitude": 39.311658,
+    "longitude": -111.215333,
+    "magnitude": 3.3,
+    "year": 1987
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Assen",
+    "latitude": 53.004414,
+    "longitude": 6.527265,
+    "magnitude": 2.8,
+    "year": 1986
+  },
+  {
+    "country": "Albania",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Komani",
+    "latitude": 42.106468,
+    "longitude": 19.826644,
+    "magnitude": 4.2,
+    "year": 1986
+  },
+  {
+    "country": "Japan",
+    "main_cause": "Mining",
+    "project_name": "Sunagawa mine",
+    "latitude": 43.468686,
+    "longitude": 141.990755,
+    "magnitude": 2.1,
+    "year": 1986
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Painesville (Perry), Ohio",
+    "latitude": 41.65,
+    "longitude": -81.162001,
+    "magnitude": 4.9,
+    "year": 1986
+  },
+  {
+    "country": "Greece",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Sfikia",
+    "latitude": 40.302429,
+    "longitude": 22.100743,
+    "magnitude": 5.2,
+    "year": 1986
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Jim Walter Resources, Inc., No. 4, Alabama",
+    "latitude": 33.279594,
+    "longitude": -87.306826,
+    "magnitude": 3.6,
+    "year": 1986
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "Midlothian",
+    "latitude": 55.851,
+    "longitude": -3.129,
+    "magnitude": 2.8,
+    "year": 1986
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Castle Gate #3, Utah",
+    "latitude": 39.72876,
+    "longitude": -110.864796,
+    "magnitude": 3,
+    "year": 1986
+  },
+  {
+    "country": "Netherlands",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Eleveld",
+    "latitude": 52.957047,
+    "longitude": 6.576815,
+    "magnitude": 2.8,
+    "year": 1986
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Wujiangdu",
+    "latitude": 27.319999,
+    "longitude": 106.760875,
+    "magnitude": 3.4,
+    "year": 1985
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Kettleman North Dome, California",
+    "latitude": 36.030091,
+    "longitude": -120.072808,
+    "magnitude": 6.1,
+    "year": 1985
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Dizong mine, Yingpan, Liuzhi, Guizhou",
+    "latitude": 26.203522,
+    "longitude": 105.460487,
+    "magnitude": 2.7,
+    "year": 1985
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Dayong mine, Yingpan, Liuzhi, Guizhou",
+    "latitude": 26.187849,
+    "longitude": 105.547969,
+    "magnitude": 2.7,
+    "year": 1985
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Doulishan mine, Lowde, Hunan",
+    "latitude": 27.690589,
+    "longitude": 111.839833,
+    "magnitude": 2.5,
+    "year": 1985
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Salt mine, Zigong, Sichuan",
+    "latitude": 29.4,
+    "longitude": 104.78,
+    "magnitude": 4.6,
+    "year": 1985
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Da he bian mine, Shiucheng, Guizhou",
+    "latitude": 26.711,
+    "longitude": 104.802,
+    "magnitude": 2.8,
+    "year": 1985
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Jaguari",
+    "latitude": -29.365733,
+    "longitude": -54.503809,
+    "magnitude": 3,
+    "year": 1985
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Kern River, Kern County, California",
+    "latitude": 35.452453,
+    "longitude": -118.99171,
+    "magnitude": 4.6,
+    "year": 1985
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Emborca��o",
+    "latitude": -18.445995,
+    "longitude": -47.988318,
+    "magnitude": 2,
+    "year": 1984
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Shengjiaxia (Shenjia Xiashuiku)",
+    "latitude": 36.379751,
+    "longitude": 102.353784,
+    "magnitude": 3.6,
+    "year": 1984
+  },
+  {
+    "country": "Turkmenistan",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Barsa-Gelmes-Vishka",
+    "latitude": 39.44931,
+    "longitude": 53.640653,
+    "magnitude": 6,
+    "year": 1984
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Cane (Kane) Creek Mine, Utah",
+    "latitude": 38.484347,
+    "longitude": -109.680079,
+    "magnitude": 3.3,
+    "year": 1984
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Imogene (Pleasanton), Texas",
+    "latitude": 28.897785,
+    "longitude": -98.455384,
+    "magnitude": 3.9,
+    "year": 1984
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Deer Creek, Utah",
+    "latitude": 39.357855,
+    "longitude": -111.111929,
+    "magnitude": 3,
+    "year": 1984
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "Nottinghamshire",
+    "latitude": 53.3,
+    "longitude": -0.95,
+    "magnitude": 3.2,
+    "year": 1984
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Sriramsagar",
+    "latitude": 18.968837,
+    "longitude": 78.340953,
+    "magnitude": 3.2,
+    "year": 1984
+  },
+  {
+    "country": "Greece",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Asomata",
+    "latitude": 40.498402,
+    "longitude": 22.266838,
+    "magnitude": 5.4,
+    "year": 1984
+  },
+  {
+    "country": "Zambia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Itezhi-Tezhi",
+    "latitude": -15.764535,
+    "longitude": 26.016811,
+    "magnitude": 4.4,
+    "year": 1984
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Geothermal",
+    "project_name": "Latera",
+    "latitude": 42.613328,
+    "longitude": 11.815375,
+    "magnitude": 2.9,
+    "year": 1984
+  },
+  {
+    "country": "New Zealand",
+    "main_cause": "Research",
+    "project_name": "Wairakei",
+    "latitude": -38.625962,
+    "longitude": 176.104937,
+    "magnitude": 3,
+    "year": 1984
+  },
+  {
+    "country": "USA",
+    "main_cause": "Geothermal",
+    "project_name": "Fenton Hill, New Mexico",
+    "latitude": 35.880852,
+    "longitude": -106.674649,
+    "magnitude": 1.3,
+    "year": 1983
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "El Dorado, Arkansas",
+    "latitude": 33.207422,
+    "longitude": -92.665604,
+    "magnitude": 3,
+    "year": 1983
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "LG 3, Quebec",
+    "latitude": 53.728662,
+    "longitude": -75.96696,
+    "magnitude": 3.7,
+    "year": 1983
+  },
+  {
+    "country": "Thailand",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Srinagarind",
+    "latitude": 14.408905,
+    "longitude": 99.128191,
+    "magnitude": 5.9,
+    "year": 1983
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Coalinga, California",
+    "latitude": 36.138932,
+    "longitude": -120.3809,
+    "magnitude": 6.5,
+    "year": 1983
+  },
+  {
+    "country": "Czech Republic",
+    "main_cause": "Mining",
+    "project_name": "CSA Mine, Ostrava-Karvina Coal Basin",
+    "latitude": 50.539093,
+    "longitude": 13.521318,
+    "magnitude": 3.75,
+    "year": 1983
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "S-Harz",
+    "latitude": 51.42,
+    "longitude": 10.66,
+    "magnitude": 3.1,
+    "year": 1983
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Bhatsa",
+    "latitude": 19.513218,
+    "longitude": 73.41773,
+    "magnitude": 4.9,
+    "year": 1983
+  },
+  {
+    "country": "Philippines",
+    "main_cause": "Geothermal",
+    "project_name": "Puhagan",
+    "latitude": 9.282336,
+    "longitude": 123.164048,
+    "magnitude": 2.4,
+    "year": 1983
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Baidong mine, Datong, Shanxi",
+    "latitude": 40.000079,
+    "longitude": 113.055661,
+    "magnitude": 2.7,
+    "year": 1983
+  },
+  {
+    "country": "Japan",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Takase",
+    "latitude": 36.473962,
+    "longitude": 137.690095,
+    "magnitude": 2.7,
+    "year": 1982
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Geothermal",
+    "project_name": "Larderello-Travale",
+    "latitude": 43.227197,
+    "longitude": 10.883841,
+    "magnitude": 3.2,
+    "year": 1982
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Gandipet (Osman Sagar)",
+    "latitude": 17.379196,
+    "longitude": 78.316592,
+    "magnitude": 3.5,
+    "year": 1982
+  },
+  {
+    "country": "Armenia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Tolors",
+    "latitude": 39.487194,
+    "longitude": 46.040563,
+    "magnitude": 4.2,
+    "year": 1982
+  },
+  {
+    "country": "USA",
+    "main_cause": "Geothermal",
+    "project_name": "The Geysers",
+    "latitude": 38.779058,
+    "longitude": -122.754145,
+    "magnitude": 4.6,
+    "year": 1982
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Taozhuang mine, Zaozhuang, Shandong",
+    "latitude": 34.87765,
+    "longitude": 117.349977,
+    "magnitude": 3.6,
+    "year": 1982
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Huachu mine, Liuzhi, Guizhou",
+    "latitude": 26.212752,
+    "longitude": 105.641152,
+    "magnitude": 4.1,
+    "year": 1982
+  },
+  {
+    "country": "USA",
+    "main_cause": "Nuclear explosions",
+    "project_name": "Atrisco, Nevada",
+    "latitude": 37.0842,
+    "longitude": -116.0065,
+    "magnitude": 4.52,
+    "year": 1982
+  },
+  {
+    "country": "Albania",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Fierza",
+    "latitude": 42.251508,
+    "longitude": 20.042756,
+    "magnitude": 2.6,
+    "year": 1981
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Longfeng mine, Fushun, Liaoning",
+    "latitude": 41.848675,
+    "longitude": 124.003555,
+    "magnitude": 2.5,
+    "year": 1981
+  },
+  {
+    "country": "Greece",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Pournari",
+    "latitude": 39.184938,
+    "longitude": 21.025991,
+    "magnitude": 5.6,
+    "year": 1981
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "King #4, Utah",
+    "latitude": 39.481058,
+    "longitude": -111.078484,
+    "magnitude": 3.8,
+    "year": 1981
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Sunnyside #3, Utah",
+    "latitude": 39.542921,
+    "longitude": -110.388705,
+    "magnitude": 3.4,
+    "year": 1981
+  },
+  {
+    "country": "Egypt",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Aswan",
+    "latitude": 23.969056,
+    "longitude": 32.878014,
+    "magnitude": 5.7,
+    "year": 1981
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Mining",
+    "project_name": "Cory Mine, Saskatchewan",
+    "latitude": 52.092929,
+    "longitude": -106.855645,
+    "magnitude": 3,
+    "year": 1980
+  },
+  {
+    "country": "Poland",
+    "main_cause": "Mining",
+    "project_name": "Belchatow",
+    "latitude": 51.244767,
+    "longitude": 19.282147,
+    "magnitude": 4.6,
+    "year": 1980
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Hunanzhen",
+    "latitude": 28.690047,
+    "longitude": 118.836234,
+    "magnitude": 2.8,
+    "year": 1979
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "LG 2, Quebec",
+    "latitude": 53.785838,
+    "longitude": -77.452232,
+    "magnitude": 0.9,
+    "year": 1979
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Capivara",
+    "latitude": -22.658726,
+    "longitude": -51.358032,
+    "magnitude": 3.7,
+    "year": 1979
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Sobradinho",
+    "latitude": -9.428851,
+    "longitude": -40.825911,
+    "magnitude": 1.9,
+    "year": 1979
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Jocassee, South Carolina",
+    "latitude": 34.960397,
+    "longitude": -82.918126,
+    "magnitude": 3.9,
+    "year": 1979
+  },
+  {
+    "country": "Mexico",
+    "main_cause": "Geothermal",
+    "project_name": "Cerro Prieto (Imperial Valley)",
+    "latitude": 32.412728,
+    "longitude": -115.243853,
+    "magnitude": 6.6,
+    "year": 1979
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Geothermal",
+    "project_name": "Cesano",
+    "latitude": 42.117477,
+    "longitude": 12.353588,
+    "magnitude": 2,
+    "year": 1978
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Cogdell Field, Texas",
+    "latitude": 32.954945,
+    "longitude": -100.885326,
+    "magnitude": 5.3,
+    "year": 1978
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Marimbondo",
+    "latitude": -20.303773,
+    "longitude": -49.197547,
+    "magnitude": 2,
+    "year": 1978
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Sheng li mine, Fushun, Liaoning",
+    "latitude": 41.837,
+    "longitude": 123.845,
+    "magnitude": 2.8,
+    "year": 1978
+  },
+  {
+    "country": "New Zealand",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Lake Pukaki",
+    "latitude": -44.187831,
+    "longitude": 170.149678,
+    "magnitude": 4.6,
+    "year": 1978
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Monticello (Fairfield), California",
+    "latitude": 38.513533,
+    "longitude": -122.104609,
+    "magnitude": 2.9,
+    "year": 1978
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Geothermal",
+    "project_name": "Torre Alfina",
+    "latitude": 42.744635,
+    "longitude": 11.945754,
+    "magnitude": 3,
+    "year": 1977
+  },
+  {
+    "country": "Kyrgyzstan",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Toktogul",
+    "latitude": 41.657198,
+    "longitude": 72.635531,
+    "magnitude": 4.6,
+    "year": 1977
+  },
+  {
+    "country": "Uzbekistan",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Charvak",
+    "latitude": 41.62665,
+    "longitude": 69.969787,
+    "magnitude": 5.3,
+    "year": 1977
+  },
+  {
+    "country": "Poland",
+    "main_cause": "Mining",
+    "project_name": "Lubin mine",
+    "latitude": 51.434286,
+    "longitude": 16.122951,
+    "magnitude": 5,
+    "year": 1977
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Taiji mine, Beipiao, Liaoning",
+    "latitude": 41.798349,
+    "longitude": 120.724245,
+    "magnitude": 4.3,
+    "year": 1977
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Soltau field",
+    "latitude": 52.986781,
+    "longitude": 9.844524,
+    "magnitude": 4,
+    "year": 1977
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Idukki",
+    "latitude": 9.843129,
+    "longitude": 76.976385,
+    "magnitude": 3.5,
+    "year": 1977
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Paraibuna�Paraitinga",
+    "latitude": -23.36773,
+    "longitude": -45.659909,
+    "magnitude": 3,
+    "year": 1977
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "En kou mine, Lowde, Hunan",
+    "latitude": 27.791,
+    "longitude": 112.017,
+    "magnitude": 2.9,
+    "year": 1976
+  },
+  {
+    "country": "Uzbekistan",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Gazli",
+    "latitude": 40.216331,
+    "longitude": 63.465234,
+    "magnitude": 7.3,
+    "year": 1976
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "Welkom",
+    "latitude": -27.995404,
+    "longitude": 26.781563,
+    "magnitude": 5.2,
+    "year": 1976
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "War-Wink, Texas",
+    "latitude": 31.648827,
+    "longitude": -103.331074,
+    "magnitude": 3,
+    "year": 1975
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Sunna (Suenna)",
+    "latitude": 50.796514,
+    "longitude": 9.998655,
+    "magnitude": 5.2,
+    "year": 1975
+  },
+  {
+    "country": "UK",
+    "main_cause": "Mining",
+    "project_name": "North Staffordshire (Stoke on Trent)",
+    "latitude": 52.972839,
+    "longitude": -2.196279,
+    "magnitude": 3.4,
+    "year": 1975
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Oroville, California",
+    "latitude": 39.537462,
+    "longitude": -121.483737,
+    "magnitude": 5.8,
+    "year": 1975
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Manicouagan 3, Quebec",
+    "latitude": 49.753374,
+    "longitude": -68.60688,
+    "magnitude": 4.1,
+    "year": 1975
+  },
+  {
+    "country": "Switzerland",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Emosson",
+    "latitude": 46.067452,
+    "longitude": 6.932043,
+    "magnitude": 3.5,
+    "year": 1974
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Mica",
+    "latitude": 52.077916,
+    "longitude": -118.566099,
+    "magnitude": 4.1,
+    "year": 1974
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Porto Col�mbia-Volta Grande",
+    "latitude": -20.033196,
+    "longitude": -48.221785,
+    "magnitude": 4.2,
+    "year": 1974
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Beatrice, Virginia",
+    "latitude": 37.202765,
+    "longitude": -81.98613,
+    "magnitude": 1,
+    "year": 1974
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Qiao tou he mine, Lowde, Hunan",
+    "latitude": 27.818,
+    "longitude": 111.781,
+    "magnitude": 2.2,
+    "year": 1974
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Wappingers Falls, New York",
+    "latitude": 41.629028,
+    "longitude": -73.93878,
+    "magnitude": 3.3,
+    "year": 1974
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Nanchong",
+    "latitude": 30.688717,
+    "longitude": 106.093777,
+    "magnitude": 2.8,
+    "year": 1974
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Clark Hill, South Carolina/Georgia",
+    "latitude": 33.661178,
+    "longitude": -82.199788,
+    "magnitude": 4.3,
+    "year": 1974
+  },
+  {
+    "country": "Sweden",
+    "main_cause": "Mining",
+    "project_name": "Gr�ngesberg ore mine",
+    "latitude": 60.076176,
+    "longitude": 14.993523,
+    "magnitude": 3.1,
+    "year": 1974
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Huangshi",
+    "latitude": 29.197527,
+    "longitude": 111.178648,
+    "magnitude": 2.3,
+    "year": 1974
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Shenwo/Shenwu",
+    "latitude": 41.234097,
+    "longitude": 123.512866,
+    "magnitude": 5.2,
+    "year": 1974
+  },
+  {
+    "country": "Turkey",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Keban",
+    "latitude": 38.80702,
+    "longitude": 38.753114,
+    "magnitude": 3.5,
+    "year": 1973
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "McNaughton (Mica)",
+    "latitude": 52.077917,
+    "longitude": -118.565963,
+    "magnitude": 4.7,
+    "year": 1973
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Anderson, Idaho",
+    "latitude": 43.359795,
+    "longitude": -115.449507,
+    "magnitude": 4.7,
+    "year": 1973
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Blowering",
+    "latitude": -35.401067,
+    "longitude": 148.247146,
+    "magnitude": 3.5,
+    "year": 1973
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Talbingo",
+    "latitude": -35.624661,
+    "longitude": 148.303291,
+    "magnitude": 3.5,
+    "year": 1973
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Warragamba (Varragamba)",
+    "latitude": -33.882752,
+    "longitude": 150.595165,
+    "magnitude": 5.5,
+    "year": 1973
+  },
+  {
+    "country": "France",
+    "main_cause": "Mining",
+    "project_name": "Lorraine",
+    "latitude": 49.36,
+    "longitude": 6.04,
+    "magnitude": 4,
+    "year": 1973
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Foziling",
+    "latitude": 31.346672,
+    "longitude": 116.273397,
+    "magnitude": 4.5,
+    "year": 1973
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Danjiangkou",
+    "latitude": 32.556558,
+    "longitude": 111.48882,
+    "magnitude": 4.7,
+    "year": 1973
+  },
+  {
+    "country": "Austria",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Schlegeis",
+    "latitude": 47.037708,
+    "longitude": 11.706262,
+    "magnitude": 2,
+    "year": 1973
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Mula",
+    "latitude": 19.341177,
+    "longitude": 74.607918,
+    "magnitude": 1.5,
+    "year": 1972
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Carmo do Cajuru",
+    "latitude": -20.238527,
+    "longitude": -44.754215,
+    "magnitude": 3.7,
+    "year": 1972
+  },
+  {
+    "country": "China",
+    "main_cause": "Mining",
+    "project_name": "Huaibaoshi mine, Zigui, Yichang, Hubei",
+    "latitude": 30.855333,
+    "longitude": 110.773136,
+    "magnitude": 3.6,
+    "year": 1972
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Moss No. 2, Virginia",
+    "latitude": 36.955233,
+    "longitude": -82.181913,
+    "magnitude": 4.5,
+    "year": 1972
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Zhelin",
+    "latitude": 29.20576,
+    "longitude": 115.500224,
+    "magnitude": 3.2,
+    "year": 1972
+  },
+  {
+    "country": "Tadjikistan",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Nurek",
+    "latitude": 38.371613,
+    "longitude": 69.348149,
+    "magnitude": 4.6,
+    "year": 1972
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Almendra",
+    "latitude": 41.271277,
+    "longitude": -6.320246,
+    "magnitude": 2,
+    "year": 1972
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Hendrik Verwoerd (Gariep)",
+    "latitude": -30.623352,
+    "longitude": 25.506796,
+    "magnitude": 2,
+    "year": 1971
+  },
+  {
+    "country": "Russia",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Starogroznenskoe",
+    "latitude": 43.371812,
+    "longitude": 45.44613,
+    "magnitude": 4.7,
+    "year": 1971
+  },
+  {
+    "country": "Brazil",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Capivari-Cachoeira",
+    "latitude": -25.138631,
+    "longitude": -48.874811,
+    "magnitude": 3,
+    "year": 1971
+  },
+  {
+    "country": "France",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Vouglans",
+    "latitude": 46.397473,
+    "longitude": 5.665456,
+    "magnitude": 4.5,
+    "year": 1971
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Keowee, South Carolina",
+    "latitude": 34.799617,
+    "longitude": -82.888802,
+    "magnitude": 3.8,
+    "year": 1971
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Kerr, Montana",
+    "latitude": 47.677347,
+    "longitude": -114.233981,
+    "magnitude": 4.9,
+    "year": 1971
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Qianjin",
+    "latitude": 29.780163,
+    "longitude": 120.877771,
+    "magnitude": 3,
+    "year": 1971
+  },
+  {
+    "country": "USA",
+    "main_cause": "Nuclear explosions",
+    "project_name": "Cannikin",
+    "latitude": 51.472656,
+    "longitude": 179.099683,
+    "magnitude": 4.9,
+    "year": 1971
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Nanshui",
+    "latitude": 24.785873,
+    "longitude": 113.21367,
+    "magnitude": 2.3,
+    "year": 1970
+  },
+  {
+    "country": "Japan",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Kamafusa",
+    "latitude": 38.20201,
+    "longitude": 140.697171,
+    "magnitude": 3,
+    "year": 1970
+  },
+  {
+    "country": "Japan",
+    "main_cause": "Research",
+    "project_name": "Matsushiro",
+    "latitude": 36.566224,
+    "longitude": 138.208733,
+    "magnitude": 2.8,
+    "year": 1970
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Snipe Lake, Alberta",
+    "latitude": 55.118851,
+    "longitude": -116.704664,
+    "magnitude": 5.1,
+    "year": 1970
+  },
+  {
+    "country": "USA",
+    "main_cause": "Research",
+    "project_name": "Rangely, Colorado",
+    "latitude": 40.100335,
+    "longitude": -108.876726,
+    "magnitude": 3.1,
+    "year": 1970
+  },
+  {
+    "country": "Greece",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Kastraki",
+    "latitude": 38.742076,
+    "longitude": 21.364041,
+    "magnitude": 4.6,
+    "year": 1969
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Kinnersani",
+    "latitude": 17.685709,
+    "longitude": 80.660671,
+    "magnitude": 5.3,
+    "year": 1969
+  },
+  {
+    "country": "USA",
+    "main_cause": "Nuclear explosions",
+    "project_name": "Milrow",
+    "latitude": 51.416042,
+    "longitude": 179.180021,
+    "magnitude": 4.3,
+    "year": 1969
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Cabin Creek, Colorado",
+    "latitude": 39.650741,
+    "longitude": -105.719034,
+    "magnitude": 2,
+    "year": 1968
+  },
+  {
+    "country": "Iran",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Sefia Rud",
+    "latitude": 36.758711,
+    "longitude": 49.38805,
+    "magnitude": 4.7,
+    "year": 1968
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Grancarevo",
+    "latitude": 42.733994,
+    "longitude": 18.4969,
+    "magnitude": 3,
+    "year": 1967
+  },
+  {
+    "country": "USA",
+    "main_cause": "Waste fluid disposal",
+    "project_name": "Rocky Mountain Arsenal (Denver), Colorado",
+    "latitude": 39.833266,
+    "longitude": -104.833315,
+    "magnitude": 4.85,
+    "year": 1967
+  },
+  {
+    "country": "Pakistan",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Mangla",
+    "latitude": 33.144234,
+    "longitude": 73.643219,
+    "magnitude": 3.6,
+    "year": 1967
+  },
+  {
+    "country": "Serbia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Bajina Basta",
+    "latitude": 43.964711,
+    "longitude": 19.409902,
+    "magnitude": 4.9,
+    "year": 1967
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Peissenberg",
+    "latitude": 47.83,
+    "longitude": 11.1,
+    "magnitude": 3.8,
+    "year": 1967
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Koyna",
+    "latitude": 17.402142,
+    "longitude": 73.751825,
+    "magnitude": 6.3,
+    "year": 1967
+  },
+  {
+    "country": "Greece",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Kremasta",
+    "latitude": 38.887575,
+    "longitude": 21.495905,
+    "magnitude": 6.2,
+    "year": 1966
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Piastra",
+    "latitude": 44.225718,
+    "longitude": 7.390075,
+    "magnitude": 4.4,
+    "year": 1966
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Palisades, Idaho",
+    "latitude": 43.332486,
+    "longitude": -111.202762,
+    "magnitude": 3.7,
+    "year": 1966
+  },
+  {
+    "country": "New Zealand",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Benmore",
+    "latitude": -44.564168,
+    "longitude": 170.19752,
+    "magnitude": 5,
+    "year": 1966
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Lake Meredith",
+    "latitude": 35.714872,
+    "longitude": -101.553061,
+    "magnitude": 4.1,
+    "year": 1966
+  },
+  {
+    "country": "France",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Serre-Poncen",
+    "latitude": 44.471807,
+    "longitude": 6.270443,
+    "magnitude": 3.3,
+    "year": 1966
+  },
+  {
+    "country": "Canada",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Manicouagan 2, Quebec",
+    "latitude": 49.321178,
+    "longitude": -68.346819,
+    "magnitude": 3.7,
+    "year": 1965
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Mining",
+    "project_name": "Reoc�n mine",
+    "latitude": 43.34444,
+    "longitude": -4.08556,
+    "magnitude": 4.1,
+    "year": 1965
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Olga, West Virginia",
+    "latitude": 37.387758,
+    "longitude": -81.651898,
+    "magnitude": 3.4,
+    "year": 1965
+  },
+  {
+    "country": "South Africa",
+    "main_cause": "Mining",
+    "project_name": "East Rand Proprietary Mine (ERPM)",
+    "latitude": -26.242384,
+    "longitude": 28.221149,
+    "magnitude": 3.7,
+    "year": 1965
+  },
+  {
+    "country": "Switzerland",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Contra",
+    "latitude": 46.196683,
+    "longitude": 8.848062,
+    "magnitude": 3,
+    "year": 1965
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Camarillas",
+    "latitude": 38.339908,
+    "longitude": -1.648632,
+    "magnitude": 4.1,
+    "year": 1964
+  },
+  {
+    "country": "Ghana",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Akosombo",
+    "latitude": 6.300689,
+    "longitude": 0.058451,
+    "magnitude": 5.3,
+    "year": 1964
+  },
+  {
+    "country": "India",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Mangalam",
+    "latitude": 10.515561,
+    "longitude": 76.533439,
+    "magnitude": 3,
+    "year": 1963
+  },
+  {
+    "country": "Zambia�Zimbabwe",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Kariba",
+    "latitude": -16.522083,
+    "longitude": 28.761676,
+    "magnitude": 6.2,
+    "year": 1963
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Inglewood, California",
+    "latitude": 34.005809,
+    "longitude": -118.377946,
+    "magnitude": 3.7,
+    "year": 1962
+  },
+  {
+    "country": "France",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Monteynard",
+    "latitude": 44.961207,
+    "longitude": 5.688691,
+    "magnitude": 5.3,
+    "year": 1962
+  },
+  {
+    "country": "China",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Hsinfengkiang (Hsingfengchiang, Xinfengjiang)",
+    "latitude": 23.727476,
+    "longitude": 114.649668,
+    "magnitude": 6.1,
+    "year": 1962
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Coyote Valley (Anderson Dam), California",
+    "latitude": 37.165819,
+    "longitude": -121.629044,
+    "magnitude": 5.2,
+    "year": 1962
+  },
+  {
+    "country": "Spain",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Canelles",
+    "latitude": 41.978737,
+    "longitude": 0.612211,
+    "magnitude": 4.7,
+    "year": 1962
+  },
+  {
+    "country": "Japan",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Kurobe",
+    "latitude": 36.566499,
+    "longitude": 137.662128,
+    "magnitude": 4.9,
+    "year": 1961
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Vajont",
+    "latitude": 46.267364,
+    "longitude": 12.329219,
+    "magnitude": 3,
+    "year": 1960
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Pieve de Cadore",
+    "latitude": 46.422509,
+    "longitude": 12.387509,
+    "magnitude": 4.4,
+    "year": 1960
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Eucumbene",
+    "latitude": -36.128545,
+    "longitude": 148.615892,
+    "magnitude": 5,
+    "year": 1959
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Lake Hebgen, Montana",
+    "latitude": 44.863775,
+    "longitude": -111.335784,
+    "magnitude": 7.1,
+    "year": 1959
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "East Texas (Gladewater), Texas",
+    "latitude": 32.544418,
+    "longitude": -94.93635,
+    "magnitude": 4.7,
+    "year": 1957
+  },
+  {
+    "country": "Switzerland",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Lac de Salanfe",
+    "latitude": 46.141001,
+    "longitude": 6.967072,
+    "magnitude": 3.5,
+    "year": 1953
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Heringen",
+    "latitude": 50.905164,
+    "longitude": 9.989563,
+    "magnitude": 5,
+    "year": 1953
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "El Reno, Oklahoma",
+    "latitude": 35.529884,
+    "longitude": -97.95851,
+    "magnitude": 5.2,
+    "year": 1952
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Caviaga, Po Valley",
+    "latitude": 45.272112,
+    "longitude": 9.572584,
+    "magnitude": 5.5,
+    "year": 1951
+  },
+  {
+    "country": "Italy",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Campotosto",
+    "latitude": 42.53,
+    "longitude": 13.38,
+    "magnitude": 5.7,
+    "year": 1950
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Wilmington, California",
+    "latitude": 33.780669,
+    "longitude": -118.218868,
+    "magnitude": 5.1,
+    "year": 1949
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Shasta, California",
+    "latitude": 40.718606,
+    "longitude": -122.419201,
+    "magnitude": 3,
+    "year": 1944
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Dominguez oil field, California",
+    "latitude": 33.873,
+    "longitude": -118.261,
+    "magnitude": 4.7,
+    "year": 1941
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Torrance oil field, California",
+    "latitude": 33.835,
+    "longitude": -118.316,
+    "magnitude": 5.1,
+    "year": 1941
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Saale (Halle) (Teutschental mine)",
+    "latitude": 51.48,
+    "longitude": 11.79,
+    "magnitude": 4.6,
+    "year": 1940
+  },
+  {
+    "country": "USA",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Hoover Dam (Lake Mead), Nevada/Arizona",
+    "latitude": 36.016196,
+    "longitude": -114.737264,
+    "magnitude": 5,
+    "year": 1939
+  },
+  {
+    "country": "Greece",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Marathon",
+    "latitude": 38.167029,
+    "longitude": 23.905555,
+    "magnitude": 5.7,
+    "year": 1938
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Panhandle field",
+    "latitude": 35.7,
+    "longitude": -101.4,
+    "magnitude": 5,
+    "year": 1936
+  },
+  {
+    "country": "Germany",
+    "main_cause": "Mining",
+    "project_name": "Ruhr area",
+    "latitude": 51.55,
+    "longitude": 7.3,
+    "magnitude": 4.1,
+    "year": 1936
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Long Beach (Wilmington and Huntington Beach oilfields), California",
+    "latitude": 33.780669,
+    "longitude": -118.218868,
+    "magnitude": 6.3,
+    "year": 1933
+  },
+  {
+    "country": "Algeria",
+    "main_cause": "Water reservoir impoundment",
+    "project_name": "Oued Fodda",
+    "latitude": 36.0456,
+    "longitude": 1.611594,
+    "magnitude": 3,
+    "year": 1933
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Wortham-Mexia, Texas",
+    "latitude": 31.812335,
+    "longitude": -96.443859,
+    "magnitude": 4,
+    "year": 1932
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Playa del Rey (Venice) oil field",
+    "latitude": 33.947926,
+    "longitude": -118.44006,
+    "magnitude": 5,
+    "year": 1930
+  },
+  {
+    "country": "USA",
+    "main_cause": "Conventional Oil and Gas",
+    "project_name": "Santa Fe Springs oil field",
+    "latitude": 33.941446,
+    "longitude": -118.062339,
+    "magnitude": 4.7,
+    "year": 1929
+  },
+  {
+    "country": "USA",
+    "main_cause": "Mining",
+    "project_name": "Attica, New York",
+    "latitude": 42.864027,
+    "longitude": -78.280505,
+    "magnitude": 5.2,
+    "year": 1929
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Boolaroo",
+    "latitude": -32.99646,
+    "longitude": 151.593207,
+    "magnitude": 5.3,
+    "year": 1925
+  },
+  {
+    "country": "Australia",
+    "main_cause": "Mining",
+    "project_name": "Maitland",
+    "latitude": -32.734426,
+    "longitude": 151.556323,
+    "magnitude": 5.3,
+    "year": 1868
+  }
+]

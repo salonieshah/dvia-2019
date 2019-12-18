@@ -6,7 +6,7 @@ var mymap;
 
 function preload() {
     // load the CSV data into our `table` variable and clip out the header row
-    table = loadTable("../data/Database_Global.csv", "csv", "header");
+    table = loadTable("../data/max_magnitude.csv", "csv", "header");
 }
 
 function setup() {

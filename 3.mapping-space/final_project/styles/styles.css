@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(1, 22, 39);
+    background-color: rgb(35,31,32);
     font-family:  "LeagueSpartan";
     color: rgb(253, 255, 252);
 }
@@ -28,7 +28,7 @@ body {
   font-size: 2em;
   text-align: center;
   line-height: 1.8em;
-  color: rgb(1, 22, 39);
+  color: rgb(35,31,32);
   background:rgb(253, 255, 252);
 }
 
@@ -51,7 +51,7 @@ img {
 }
 
 #causes img{
-  width: 60%;
+  width: 70%;
   font-family: "LeagueSpartan";
   margin-left: auto;
   margin-right: auto;
@@ -72,4 +72,5 @@ img {
 
 .axis text{
   fill: rgb(253, 255, 252);
+  font-family: "LeagueSpartan";
 }  

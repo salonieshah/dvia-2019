@@ -18,7 +18,7 @@ function setup() {
   g = random(0, 255);
   b = random(0, 255);
   
-  background(1,22,39);
+  background(35,31,32);
   drawPoints(windowWidth/2,windowHeight/2)
   
   fill(253, 255, 252);
@@ -27,7 +27,7 @@ function setup() {
   
   textFont(font);
   textSize(50);
-  fill(1,22,39)
+  fill(35,31,32)
   stroke(253, 255, 252);
   text('Human Induced Earthquakes', 50, windowHeight/1.2);
 

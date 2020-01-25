@@ -229,6 +229,7 @@ var SVG = d3.select("#dataviz_axisZoom")
     .call(d3.axisBottom(x))
     .attr("class", "axis");
 
+
   // Add Y axis
   var y = d3.scaleLinear()
     .domain([0, 100])
